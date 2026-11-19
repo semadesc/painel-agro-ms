@@ -7,8 +7,8 @@ title: Estimativa da safra (LSPA)
 <p class="nota">Levantamento Sistemático da Produção Agrícola do IBGE: estimativas mensais da safra do ano para Mato Grosso do Sul. Cada mês, o IBGE revisa a estimativa do ano. Dados como publicados, sem tratamento.</p>
 
 ```js
-import {baixarCSV, botao, fmt, slug, consulta} from "./components/util.js";
-const db = await DuckDBClient.of({lspa: FileAttachment("data/lspa.parquet")});
+import {baixarCSV, botao, fmt, slug, consulta, inteiro} from "./components/util.js";
+const db = await DuckDBClient.of({lspa: inteiro(FileAttachment("data/lspa.parquet"))});
 const produtos = (await consulta(db, `select distinct categoria from lspa order by categoria`)).map((d) => d.categoria);
 const variaveis = (await consulta(db, `select distinct variavel from lspa order by variavel`)).map((d) => d.variavel);
 const inProd = Inputs.select(produtos, {label: "Produto", value: produtos.includes("1.17 Soja") ? "1.17 Soja" : produtos[0]});

@@ -117,3 +117,12 @@ export async function consulta(db, sql, params) {
   const res = await db.query(sql, params);
   return Array.from(res, (r) => (r && typeof r.toJSON === "function" ? r.toJSON() : {...r}));
 }
+
+// Baixa o arquivo inteiro antes de entregá-lo ao DuckDB. Sem isso, o DuckDB lê o Parquet
+// em pedaços (requisições HTTP com Range), que alguns proxies de rede corrompem,
+// gerando o erro "TProtocolException: Invalid data".
+export async function inteiro(arquivo) {
+  const buffer = await arquivo.arrayBuffer();
+  const url = URL.createObjectURL(new Blob([buffer]));
+  return {file: {name: arquivo.name, mimeType: arquivo.mimeType, url: async () => url, arrayBuffer: async () => buffer}};
+}

@@ -7,9 +7,9 @@ title: Lavouras
 <p class="nota">Área plantada, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras temporárias e permanentes, por município de Mato Grosso do Sul. Dados do IBGE como publicados, sem tratamento.</p>
 
 ```js
-import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta} from "./components/util.js";
+import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta, inteiro} from "./components/util.js";
 const geo = await FileAttachment("data/ms_municipios.json").json();
-const db = await DuckDBClient.of({pam: FileAttachment("data/pam.parquet")});
+const db = await DuckDBClient.of({pam: inteiro(FileAttachment("data/pam.parquet"))});
 const CONJUNTOS = [{"tabela": "pam", "nome": "Lavouras temporárias e permanentes", "pesquisa": "Produção Agrícola Municipal (PAM)", "sidra": 5457, "categoria": "Produto", "padraoCat": "Soja (em grão)", "padraoVar": "Quantidade produzida"}];
 ```
 

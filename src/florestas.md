@@ -7,9 +7,9 @@ title: Florestas plantadas
 <p class="nota">Área de florestas plantadas por espécie e produção da silvicultura (madeira, carvão, lenha e outros), por município de Mato Grosso do Sul. Dados do IBGE como publicados, sem tratamento.</p>
 
 ```js
-import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta} from "./components/util.js";
+import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta, inteiro} from "./components/util.js";
 const geo = await FileAttachment("data/ms_municipios.json").json();
-const db = await DuckDBClient.of({area: FileAttachment("data/pevs_area.parquet"), producao: FileAttachment("data/pevs_producao.parquet")});
+const db = await DuckDBClient.of({area: inteiro(FileAttachment("data/pevs_area.parquet")), producao: inteiro(FileAttachment("data/pevs_producao.parquet"))});
 const CONJUNTOS = [{"tabela": "area", "nome": "Área de florestas plantadas", "pesquisa": "Produção da Extração Vegetal e da Silvicultura (PEVS)", "sidra": 5930, "categoria": "Espécie florestal", "padraoCat": "Eucalipto", "padraoVar": "Área total existente em 31/12 dos efetivos da silvicultura"}, {"tabela": "producao", "nome": "Produção da silvicultura", "pesquisa": "Produção da Extração Vegetal e da Silvicultura (PEVS)", "sidra": 291, "categoria": "Produto", "padraoCat": "1.3 - Madeira em tora", "padraoVar": "Quantidade produzida na silvicultura"}];
 ```
 

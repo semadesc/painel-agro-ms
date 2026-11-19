@@ -7,12 +7,12 @@ title: Safra de grãos e cana (CONAB)
 <p class="nota">Estimativas da CONAB para Mato Grosso do Sul: a série histórica traz o resultado de cada safra; os levantamentos trazem cada estimativa mensal divulgada durante a safra. Dados como publicados nos arquivos da CONAB, sem tratamento.</p>
 
 ```js
-import {baixarCSV, botao, fmt, slug, consulta} from "./components/util.js";
+import {baixarCSV, botao, fmt, slug, consulta, inteiro} from "./components/util.js";
 const db = await DuckDBClient.of({
-  gs: FileAttachment("data/conab_serie_historica_graos.parquet"),
-  gl: FileAttachment("data/conab_levantamento_graos.parquet"),
-  cs: FileAttachment("data/conab_serie_historica_cana.parquet"),
-  cl: FileAttachment("data/conab_levantamento_cana.parquet")
+  gs: inteiro(FileAttachment("data/conab_serie_historica_graos.parquet")),
+  gl: inteiro(FileAttachment("data/conab_levantamento_graos.parquet")),
+  cs: inteiro(FileAttachment("data/conab_serie_historica_cana.parquet")),
+  cl: inteiro(FileAttachment("data/conab_levantamento_cana.parquet"))
 });
 const ROTULOS = {
   ano_agricola: "Ano agrícola", safra: "Safra", dsc_safra_previsao: "Safra", uf: "UF", produto: "Produto", id_produto: "Código do produto",

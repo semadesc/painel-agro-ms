@@ -7,9 +7,9 @@ title: Pecuária
 <p class="nota">Efetivo dos rebanhos e produção de origem animal (leite, ovos, mel e outros), por município de Mato Grosso do Sul. Dados do IBGE como publicados, sem tratamento.</p>
 
 ```js
-import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta} from "./components/util.js";
+import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta, inteiro} from "./components/util.js";
 const geo = await FileAttachment("data/ms_municipios.json").json();
-const db = await DuckDBClient.of({rebanhos: FileAttachment("data/ppm_rebanhos.parquet"), origem: FileAttachment("data/ppm_origem_animal.parquet")});
+const db = await DuckDBClient.of({rebanhos: inteiro(FileAttachment("data/ppm_rebanhos.parquet")), origem: inteiro(FileAttachment("data/ppm_origem_animal.parquet"))});
 const CONJUNTOS = [{"tabela": "rebanhos", "nome": "Efetivo dos rebanhos", "pesquisa": "Pesquisa da Pecuária Municipal (PPM)", "sidra": 3939, "categoria": "Tipo de rebanho", "padraoCat": "Bovino", "padraoVar": "Efetivo dos rebanhos"}, {"tabela": "origem", "nome": "Produção de origem animal", "pesquisa": "Pesquisa da Pecuária Municipal (PPM)", "sidra": 74, "categoria": "Produto", "padraoCat": "Leite", "padraoVar": "Produção de origem animal"}];
 ```
 

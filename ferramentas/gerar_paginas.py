@@ -50,7 +50,7 @@ title: __TITULO__
 <p class="nota">__INTRO__ Dados do IBGE como publicados, sem tratamento.</p>
 
 ```js
-import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta} from "./components/util.js";
+import {mapaMunicipal, baixarCSV, baixarSVG, baixarPNG, botao, fmt, slug, consulta, inteiro} from "./components/util.js";
 const geo = await FileAttachment("data/ms_municipios.json").json();
 const db = await DuckDBClient.of({__ANEXOS__});
 const CONJUNTOS = __CONJUNTOS__;
@@ -151,7 +151,7 @@ def js_obj(d: dict) -> str:
 
 
 for nome, p in PAGINAS.items():
-    anexos = ", ".join(f'{k}: FileAttachment("{v}")' for k, v in p["anexos"].items())
+    anexos = ", ".join(f'{k}: inteiro(FileAttachment("{v}"))' for k, v in p["anexos"].items())
     texto = (MODELO.replace("__TITULO__", p["titulo"]).replace("__INTRO__", p["intro"])
              .replace("__ANEXOS__", anexos).replace("__CONJUNTOS__", js_obj(p["conjuntos"])))
     (SRC / f"{nome}.md").write_text(texto, encoding="utf-8")
