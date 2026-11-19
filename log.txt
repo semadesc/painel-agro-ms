@@ -1,0 +1,112 @@
+== index
+== lavouras
+== pecuaria
+== florestas
+== conab
+== lspa
+== dados
+== index_celular
+== lavouras_celular
+== pecuaria_celular
+== florestas_celular
+== conab_celular
+== lspa_celular
+== dados_celular
+== publicado lavouras: 0 erros
+== publicado conab: 0 erros
+200 application/javascript; charset=utf-8 2736 https://semadesc.github.io/painel-agro-ms/_observablehq/stdlib/duckdb.8c280ac7.js
+200 application/javascript; charset=utf-8 6586 https://semadesc.github.io/painel-agro-ms/_npm/@duckdb/duckdb-wasm@1.29.0/1f501578.js
+200 application/javascript; charset=utf-8 187373 https://semadesc.github.io/painel-agro-ms/_npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-browser-eh.worker.b2f0d826.js
+200 application/octet-stream 917153 https://semadesc.github.io/painel-agro-ms/_file/data/pam.79616a57.parquet
+200 application/wasm 7246630 https://semadesc.github.io/painel-agro-ms/_npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-eh.wasm
+200 application/wasm 703122 https://semadesc.github.io/painel-agro-ms/_duckdb/parquet-e24fb295/v1.1.1/wasm_eh/parquet.duckdb_extension.wasm
+200 application/javascript; charset=utf-8 2736 https://semadesc.github.io/painel-agro-ms/_observablehq/stdlib/duckdb.8c280ac7.js
+200 application/javascript; charset=utf-8 6586 https://semadesc.github.io/painel-agro-ms/_npm/@duckdb/duckdb-wasm@1.29.0/1f501578.js
+200 application/javascript; charset=utf-8 187373 https://semadesc.github.io/painel-agro-ms/_npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-browser-eh.worker.b2f0d826.js
+200 application/octet-stream 8618 https://semadesc.github.io/painel-agro-ms/_file/data/conab_levantamento_graos.7ab7d063.parquet
+200 application/octet-stream 2514 https://semadesc.github.io/painel-agro-ms/_file/data/conab_serie_historica_cana.d07d8c41.parquet
+200 application/octet-stream 3187 https://semadesc.github.io/painel-agro-ms/_file/data/conab_levantamento_cana.0ddb86c5.parquet
+200 application/wasm 7246630 https://semadesc.github.io/painel-agro-ms/_npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-eh.wasm
+200 application/octet-stream 7842 https://semadesc.github.io/painel-agro-ms/_file/data/conab_serie_historica_graos.f69621af.parquet
+200 application/wasm 703122 https://semadesc.github.io/painel-agro-ms/_duckdb/parquet-e24fb295/v1.1.1/wasm_eh/parquet.duckdb_extension.wasm
+== oficial
+BODY.home blog wp-custom-logo wp-theme-new-ms | rgb(255, 255, 255) | rgb(33, 37, 41) | system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" | 2415
+HEADER. | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 134
+DIV.barra-navigation | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 38
+DIV.container | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+DIV.navigation-menu | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+DIV.accessibility-menu | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+DIV.navegation-part | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+BUTTON.burger-icon  | rgba(0, 0, 0, 0) | rgb(0, 0, 0) | "Open Sans", sans-serif | 0
+svg.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 0, 0) | "Open Sans", sans-serif | 0
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 0, 0) | "Open Sans", sans-serif | 0
+NAV.nav navegacao-acessibilidade burger-menu | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 21
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 21
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 21
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 21
+DIV.redes-mobile | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 0
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 0
+DIV.redes-menu | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+DIV.redes-icons | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+DIV. logomarca-mobile | rgb(0, 79, 159) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+IMG. | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+NAV.nav accessibility-tools | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+BUTTON.accessibility-trigger | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+IMG. | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 16
+BUTTON.accessibility-trigger | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+IMG. | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 16
+NAV.nav nav-redes-sociais | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 24
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 24
+DIV.redes-menu | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+DIV.redes-icons | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 24
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 24
+svg.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 20
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 16
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 24
+svg.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 20
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 15
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 24
+svg.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 20
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 17
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 9
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 2
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 24
+svg.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 20
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 16
+A. | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 24
+svg.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 20
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 79, 159) | "Open Sans", sans-serif | 13
+SECTION.banner banner-azul-topo | rgb(0, 79, 159) | rgb(33, 37, 41) | "Open Sans", sans-serif | 96
+DIV.topo topo-home | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 96
+DIV.container | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 96
+DIV.logo-cabecario-home | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 79
+A.logo-topo | rgba(0, 0, 0, 0) | rgb(0, 61, 117) | "Open Sans", sans-serif | 79
+DIV. | rgba(0, 0, 0, 0) | rgb(0, 61, 117) | "Open Sans", sans-serif | 79
+IMG. | rgba(0, 0, 0, 0) | rgb(0, 61, 117) | "Open Sans", sans-serif | 79
+DIV.identificacao-do-site | rgba(0, 0, 0, 0) | rgb(255, 255, 255) | "Open Sans", sans-serif | 96
+DIV.identificacao-p | rgba(0, 0, 0, 0) | rgb(255, 255, 255) | "Open Sans", sans-serif | 87
+STRONG. | rgba(0, 0, 0, 0) | rgb(255, 255, 255) | "Open Sans", sans-serif | 19
+P. | rgba(0, 0, 0, 0) | rgb(255, 255, 255) | "Open Sans", sans-serif | 63
+NAV. | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 48
+DIV.row | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 48
+DIV.col-4 | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+BUTTON.burger-icon-principal | rgba(0, 0, 0, 0) | rgb(0, 0, 0) | "Open Sans", sans-serif | 0
+svg.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 0, 0) | "Open Sans", sans-serif | 0
+path.[object SVGAnimatedString] | rgba(0, 0, 0, 0) | rgb(0, 0, 0) | "Open Sans", sans-serif | 0
+STYLE. | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+DIV.col-12 | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 48
+DIV.collapse navbar-collapse | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 48
+UL.nav menu-principal-ul | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 48
+LI.menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139165 has-submenu | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 48
+A. | rgba(0, 0, 0, 0) | rgb(48, 48, 46) | "Open Sans", sans-serif | 22
+UL.sub-menu-1 | rgb(255, 255, 255) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+LI.menu-item menu-item-type-post_type menu-item-object-page menu-item-139188 | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+A. | rgba(0, 0, 0, 0) | rgb(48, 48, 46) | "Open Sans", sans-serif | 0
+LI.menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139593 has-submenu | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+A. | rgba(0, 0, 0, 0) | rgb(48, 48, 46) | "Open Sans", sans-serif | 0
+UL.sub-menu-2 | rgb(255, 255, 255) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+LI.menu-item menu-item-type-post_type menu-item-object-secretaria_executiva menu-item-139600 | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
+A. | rgba(0, 0, 0, 0) | rgb(48, 48, 46) | "Open Sans", sans-serif | 0
+LI.menu-item menu-item-type-post_type menu-item-object-secretaria_executiva menu-item-139601 | rgba(0, 0, 0, 0) | rgb(33, 37, 41) | "Open Sans", sans-serif | 0
