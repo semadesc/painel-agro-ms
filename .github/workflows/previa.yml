@@ -1,0 +1,39 @@
+name: Prévia do site
+
+# Monta o site, abre cada página num navegador e grava capturas de tela e erros
+# no ramo "previa", para conferência.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  previa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyarrow playwright && python -m playwright install --with-deps chromium
+      - run: npm ci
+      - run: npm run build
+      - name: Capturar páginas
+        run: |
+          (cd dist && python -m http.server 8000 >/dev/null 2>&1 &)
+          sleep 2
+          python ferramentas/previa.py /tmp/previa
+      - name: Gravar no ramo previa
+        run: |
+          cd /tmp/previa
+          git init -q -b previa
+          git config user.name "previa"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -qm "Prévia de $(date -u +%Y-%m-%dT%H:%M)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" previa
