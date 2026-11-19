@@ -1,8 +1,11 @@
 /* Identidade visual: Manual de Identidade Visual do Governo de MS (2025).
    Cores principais: verde #009E3D, azul #004F9F, amarelo #FFD500, preto #1D1D1B.
-   Fonte institucional: Avenir Next LT Pro (usada quando instalada no computador). */
+   Fonte institucional: Avenir Next LT Pro (arquivos em src/assets/fontes). */
 @import url("observablehq:default.css");
 @import url("observablehq:theme-air.css");
+@font-face { font-family: "Avenir Next LT Pro"; src: url("./assets/fontes/avenir-next-medium.woff2") format("woff2"); font-weight: 400 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Avenir Next LT Pro"; src: url("./assets/fontes/avenir-next-demi.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Avenir Next LT Pro"; src: url("./assets/fontes/avenir-next-bold.woff2") format("woff2"); font-weight: 700 900; font-style: normal; font-display: swap; }
 
 :root {
   --ms-verde: #009e3d;
@@ -23,14 +26,14 @@ body { font-family: var(--sans-serif); }
 
 #observablehq-header { padding: 0; }
 .gov-faixa {
-  display: flex; gap: 10px; align-items: center;
-  height: 34px; padding: 0 1rem;
-  background: var(--ms-azul); color: #fff;
-  font-size: 12.5px; letter-spacing: .05em; text-transform: uppercase;
+  display: flex; align-items: center;
+  padding: 10px 0 12px;
+  background: #fff;
   border-bottom: 4px solid var(--ms-verde);
 }
-.gov-faixa__gov { font-weight: 700; }
-.gov-faixa__sep { opacity: .6; }
+.gov-faixa a { display: inline-flex; }
+.gov-faixa__logo { height: 56px; width: auto; display: block; }
+@media (max-width: 640px) { .gov-faixa__logo { height: 42px; } }
 
 #observablehq-sidebar { border-right: 1px solid #e3e3e3; }
 #observablehq-sidebar > ol > li > a, #observablehq-sidebar a { font-weight: 500; }
