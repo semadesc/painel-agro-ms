@@ -30,9 +30,11 @@ with sync_playwright() as p:
         pg.close()
     try:
         pg = nav.new_page(viewport={"width": 1366, "height": 900})
-        pg.goto("https://www.semadesc.ms.gov.br/", wait_until="networkidle", timeout=60000)
+        pg.goto("https://www.semadesc.ms.gov.br/", wait_until="domcontentloaded", timeout=90000)
+        pg.wait_for_timeout(8000)
         pg.wait_for_timeout(3000)
-        pg.screenshot(path=str(saida / "oficial.png"))
+        pg.screenshot(path=str(saida / "oficial.png"), full_page=False)
+        pg.screenshot(path=str(saida / "oficial_inteiro.png"), full_page=True)
         estilos = pg.evaluate("""() => [...document.querySelectorAll('header, header *, nav, nav *, footer, .topo, #topo, body')].slice(0,80)
           .map(e => [e.tagName + '.' + (e.className||''), getComputedStyle(e).backgroundColor, getComputedStyle(e).color, getComputedStyle(e).fontFamily, Math.round(e.getBoundingClientRect().height)].join(' | '))""")
         log.append("== oficial"); log.extend(estilos)
