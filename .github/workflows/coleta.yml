@@ -32,7 +32,11 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - name: Coletar IBGE
+        if: ${{ inputs.pesquisas != 'conab' }}
         run: python coleta/ibge.py ${{ inputs.pesquisas }} ${{ inputs.completo && '--completo' || '' }}
+      - name: Coletar CONAB
+        if: ${{ !inputs.pesquisas || inputs.pesquisas == 'conab' }}
+        run: python coleta/conab.py
       - name: Gravar no repositório
         run: |
           git config user.name "coleta-automatica"
@@ -41,6 +45,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Sem alterações nos dados."
           else
-            git commit -m "Atualiza dados do IBGE ($(date -u +%Y-%m-%d))"
+            git commit -m "Atualiza dados ($(date -u +%Y-%m-%d))"
             git push
           fi
