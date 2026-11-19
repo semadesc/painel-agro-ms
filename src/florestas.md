@@ -88,7 +88,7 @@ const serie = [...await consulta(db, `select localidade, cod_ibge, periodo, vari
   <p class="fonte">${variavel}. Anos sem barra: sem registro na pesquisa.${variavel.startsWith("Valor") ? " Valores em moeda corrente de cada ano, sem correção; ver a coluna Unidade do arquivo." : ""}</p>
   ${serie.length ? resize((w) => Plot.plot({
     width: w, height: 300, marginLeft: 70,
-    x: {label: null, tickFormat: (d) => d, type: "band"},
+    x: {label: null, type: "band", tickFormat: (d) => (serie.length > 15 && Number(d) % 5 !== 0 ? "" : d)},
     y: {label: serie.at(-1).unidade, grid: true, tickFormat: (v) => fmt(v)},
     marks: [
       Plot.barY(serie.filter((d) => d.valor_num != null), {x: "periodo", y: "valor_num", fill: "#004f9f", tip: {format: {y: (v) => fmt(v)}}}),

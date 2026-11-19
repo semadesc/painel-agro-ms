@@ -3,6 +3,8 @@ import * as Plot from "npm:@observablehq/plot";
 
 export const nf = new Intl.NumberFormat("pt-BR", {maximumFractionDigits: 2});
 export const fmt = (v) => (v == null || Number.isNaN(v) ? "" : nf.format(v));
+const nf1 = new Intl.NumberFormat("pt-BR", {maximumFractionDigits: 1});
+export const curto = (v) => (Math.abs(v) >= 1e6 ? nf1.format(v / 1e6) + " mi" : Math.abs(v) >= 1e4 ? nf1.format(v / 1e3) + " mil" : nf1.format(v));
 
 // Rampa sequencial em verde, do manual de identidade visual (claro para escuro)
 export const RAMPA = ["#e6f4eb", "#b7e0c4", "#7cc69a", "#36a865", "#009e3d", "#006b2d"];
@@ -27,7 +29,7 @@ export function mapaMunicipal(geo, linhas, {width = 640, titulo = "", unidade = 
     title: titulo,
     color: temDados
       ? {type: "quantile", n: Math.min(6, new Set(comValor.map((f) => f.properties.v)).size), range: RAMPA, legend: true,
-         label: unidade, tickFormat: (v) => nf.format(v), style: {fontSize: "12px"}}
+         label: unidade, tickFormat: curto, width: Math.min(width, 420), style: {fontSize: "12px"}}
       : undefined,
     marks: [
       Plot.geo(fc(semValor), {fill: "#f1f1f2", stroke: "#fff", strokeWidth: 0.8,
