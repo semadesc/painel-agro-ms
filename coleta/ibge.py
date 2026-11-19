@@ -1,8 +1,9 @@
 """Coleta de tabelas do IBGE (API de agregados v3) para Mato Grosso do Sul.
 
-Grava os dados como o IBGE publica, sem tratamento: um CSV por tabela e por
-período em data/ibge/<pesquisa>/. Símbolos do IBGE são mantidos na coluna
-"valor" ("-" zero absoluto, "X" sigilo, ".." não se aplica, "..." não disponível).
+Grava os valores como o IBGE publica, sem tratamento: um CSV por tabela e por
+período em data/ibge/<pesquisa>/<tabela>/. Ficam de fora apenas as células
+vazias ou zero (a ausência da linha equivale a zero) e os percentuais
+calculados pelo IBGE. O sigilo ("X") é mantido na coluna "valor".
 
 Uso:
     python coleta/ibge.py              # atualiza tudo (incremental)
@@ -96,8 +97,11 @@ def baixar_periodos(cfg: dict, meta: dict, periodos: list[str]) -> list[dict]:
 
 def gravar(caminho: Path, linhas: list[dict]) -> None:
     caminho.parent.mkdir(parents=True, exist_ok=True)
-    # descarta só as células sem dado nenhum (".." e "..."); mantém zeros e sigilo
-    linhas = [l for l in linhas if l["valor"] not in ("..", "...", None)]
+    # Para manter o repositório leve: descarta células sem dado ("..", "..."),
+    # zeros absolutos ("-", a ausência da linha equivale a zero) e as variáveis
+    # de percentual calculadas pelo IBGE (ids a partir de 1000000). Mantém o sigilo ("X").
+    linhas = [l for l in linhas
+              if l["valor"] not in ("..", "...", "-", None) and int(l["variavel_id"]) < 1000000]
     with open(caminho, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=COLUNAS)
         w.writeheader()
