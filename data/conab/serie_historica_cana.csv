@@ -1,23 +1,23 @@
 ano_agricola,dsc_safra_previsao,uf,produto,id_produto,area_plantada_mil_ha,producao_mil_t,dsc_situacao_levantamento,producao_acucar_mil_t,producao_etanol_anidro_mil_l,producao_etanol_hidratado_mil_l,producao_etanol_total_mil_l,produtcao_atr_kg_t
-2005/06             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"139,1",9799,PREVISAO                                                    ,337.2,285046.2,300606.5,585652.7,139.3
-2006/07             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,160,12676,PREVISAO                                                    ,575.6,210759.7,432219.1,642978.8,134.7
-2007/08             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"275,8",20755,PREVISAO                                                    ,602.7,209824.7,713313.8,923138.5,106.4
-2008/09             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"275,8",20755,PREVISAO                                                    ,1006.1,405978.3,658065.9,1064044.2,139
-2009/10             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"265,4",23297.8,PREVISAO                                                    ,746.8,236798,1030834,1267632,126.4
-2010/11             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"396,2",33476.7,PREVISAO                                                    ,1328.5,360800,1485397,1846197,135.7
-2011/12             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"480,9",33859.8,PREVISAO                                                    ,1741.5,484970,1430370,1915340,150.7
-2012/13             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"542,7",36955.2,PREVISAO                                                    ,1741.9,485023.1,1430420,1915443.1,138.1
-2013/14             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"654,5",41496,PREVISAO                                                    ,1367.6,586994,1645548,2232542,126.6
-2014/15             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"668,3",42969.8,PREVISAO                                                    ,1337.4,622125.2,1804955.7,2427080.9,129.3
-2015/16             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"596,8",48685.4,PREVISAO                                                    ,1325.1,650365.5,2169852.4,2820217.8,127.5
-2016/17             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,619,50292,PREVISAO                                                    ,1734.8,794938,1914362,2709300,128.5
-2017/18             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,666,46940.2,PREVISAO                                                    ,1491.7,866264,1765958,2632222,129.6
-2018/19             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"647,4",49504.7,PREVISAO                                                    ,944.3,799734,2477161,3276895,133.2
-2019/20             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,661,47515,PREVISAO                                                    ,730.7,672410,2668903,3341313,136.1
-2020/21             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"637,2",48991.7,PREVISAO                                                    ,1847.5,655169,2214263,2869432,139.6
-2021/22             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"648,6",44180.3,PREVISAO                                                    ,1373.8,745093,1804472,2549565,131.5
-2022/23             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,636,44627.1,PREVISAO                                                    ,1500.3,1312029,2055565,3367594,131.3
-2023/24             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"629,9",50771.7,PREVISAO                                                    ,2209.5,847747.4,2027989,2875736.4,133.6
-2024/25             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"674,4",49278,PREVISAO                                                    ,2699.2,772482,2034112,2806594.1,133
-2025/26             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"706,9",51563.3,PREVISAO                                                    ,2124.9,572005.6,2225201,2797206.6,131.9
-2026/27             ,UNICA          ,MS,CANA DE ACUCAR                          ,4238,"749,4",57831,PREVISAO                                                    ,1821.7,587861.2,2953790.6,3541651.8,128.7
+2005/06,UNICA,MS,CANA DE ACUCAR,4238,"139,1",9799,PREVISAO,337.2,285046.2,300606.5,585652.7,139.3
+2006/07,UNICA,MS,CANA DE ACUCAR,4238,160,12676,PREVISAO,575.6,210759.7,432219.1,642978.8,134.7
+2007/08,UNICA,MS,CANA DE ACUCAR,4238,"275,8",20755,PREVISAO,602.7,209824.7,713313.8,923138.5,106.4
+2008/09,UNICA,MS,CANA DE ACUCAR,4238,"275,8",20755,PREVISAO,1006.1,405978.3,658065.9,1064044.2,139
+2009/10,UNICA,MS,CANA DE ACUCAR,4238,"265,4",23297.8,PREVISAO,746.8,236798,1030834,1267632,126.4
+2010/11,UNICA,MS,CANA DE ACUCAR,4238,"396,2",33476.7,PREVISAO,1328.5,360800,1485397,1846197,135.7
+2011/12,UNICA,MS,CANA DE ACUCAR,4238,"480,9",33859.8,PREVISAO,1741.5,484970,1430370,1915340,150.7
+2012/13,UNICA,MS,CANA DE ACUCAR,4238,"542,7",36955.2,PREVISAO,1741.9,485023.1,1430420,1915443.1,138.1
+2013/14,UNICA,MS,CANA DE ACUCAR,4238,"654,5",41496,PREVISAO,1367.6,586994,1645548,2232542,126.6
+2014/15,UNICA,MS,CANA DE ACUCAR,4238,"668,3",42969.8,PREVISAO,1337.4,622125.2,1804955.7,2427080.9,129.3
+2015/16,UNICA,MS,CANA DE ACUCAR,4238,"596,8",48685.4,PREVISAO,1325.1,650365.5,2169852.4,2820217.8,127.5
+2016/17,UNICA,MS,CANA DE ACUCAR,4238,619,50292,PREVISAO,1734.8,794938,1914362,2709300,128.5
+2017/18,UNICA,MS,CANA DE ACUCAR,4238,666,46940.2,PREVISAO,1491.7,866264,1765958,2632222,129.6
+2018/19,UNICA,MS,CANA DE ACUCAR,4238,"647,4",49504.7,PREVISAO,944.3,799734,2477161,3276895,133.2
+2019/20,UNICA,MS,CANA DE ACUCAR,4238,661,47515,PREVISAO,730.7,672410,2668903,3341313,136.1
+2020/21,UNICA,MS,CANA DE ACUCAR,4238,"637,2",48991.7,PREVISAO,1847.5,655169,2214263,2869432,139.6
+2021/22,UNICA,MS,CANA DE ACUCAR,4238,"648,6",44180.3,PREVISAO,1373.8,745093,1804472,2549565,131.5
+2022/23,UNICA,MS,CANA DE ACUCAR,4238,636,44627.1,PREVISAO,1500.3,1312029,2055565,3367594,131.3
+2023/24,UNICA,MS,CANA DE ACUCAR,4238,"629,9",50771.7,PREVISAO,2209.5,847747.4,2027989,2875736.4,133.6
+2024/25,UNICA,MS,CANA DE ACUCAR,4238,"674,4",49278,PREVISAO,2699.2,772482,2034112,2806594.1,133
+2025/26,UNICA,MS,CANA DE ACUCAR,4238,"706,9",51563.3,PREVISAO,2124.9,572005.6,2225201,2797206.6,131.9
+2026/27,UNICA,MS,CANA DE ACUCAR,4238,"749,4",57831,PREVISAO,1821.7,587861.2,2953790.6,3541651.8,128.7
