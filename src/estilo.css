@@ -1,0 +1,69 @@
+/* Identidade visual: Manual de Identidade Visual do Governo de MS (2025).
+   Cores principais: verde #009E3D, azul #004F9F, amarelo #FFD500, preto #1D1D1B.
+   Fonte institucional: Avenir Next LT Pro (usada quando instalada no computador). */
+@import url("observablehq:default.css");
+@import url("observablehq:theme-air.css");
+
+:root {
+  --ms-verde: #009e3d;
+  --ms-verde-escuro: #006b2d;
+  --ms-azul: #004f9f;
+  --ms-azul-escuro: #14387f;
+  --ms-amarelo: #ffd500;
+  --ms-preto: #1d1d1b;
+  --ms-cinza: #565758;
+  --ms-cinza-claro: #f1f1f2;
+  --sans-serif: "Avenir Next LT Pro", "Avenir Next", Avenir, "Segoe UI", Roboto, Arial, sans-serif;
+  --theme-foreground: var(--ms-preto);
+  --theme-foreground-focus: var(--ms-azul);
+  --theme-background-alt: var(--ms-cinza-claro);
+}
+
+body { font-family: var(--sans-serif); }
+
+#observablehq-header { padding: 0; }
+.gov-faixa {
+  display: flex; gap: 10px; align-items: center;
+  height: 34px; padding: 0 1rem;
+  background: var(--ms-azul); color: #fff;
+  font-size: 12.5px; letter-spacing: .05em; text-transform: uppercase;
+  border-bottom: 4px solid var(--ms-verde);
+}
+.gov-faixa__gov { font-weight: 700; }
+.gov-faixa__sep { opacity: .6; }
+
+#observablehq-sidebar { border-right: 1px solid #e3e3e3; }
+#observablehq-sidebar > ol > li > a, #observablehq-sidebar a { font-weight: 500; }
+#observablehq-sidebar .observablehq-link-active a { color: var(--ms-azul); }
+
+h1 { color: var(--ms-azul); font-weight: 700; max-width: none; }
+h2 { color: var(--ms-preto); font-weight: 700; margin-top: 2rem; }
+.fonte { color: var(--ms-cinza); font-size: 13px; }
+.nota { color: var(--ms-cinza); font-size: 14px; max-width: 900px; }
+
+.filtros { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: flex-end; margin: 1rem 0; }
+.filtros form { margin: 0; }
+
+.botoes { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 4px; }
+.botoes button {
+  font: inherit; font-size: 13.5px; font-weight: 600; cursor: pointer;
+  color: var(--ms-azul); background: #fff; border: 1px solid var(--ms-azul);
+  border-radius: 999px; padding: 5px 14px;
+}
+.botoes button:hover { background: #e8f0fa; }
+
+.temas { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 1rem; }
+.temas a {
+  display: block; padding: 16px 18px; border: 1px solid #e3e3e3; border-left: 5px solid var(--ms-verde);
+  border-radius: 8px; text-decoration: none; color: inherit; background: #fff;
+}
+.temas a:hover { border-left-color: var(--ms-azul); }
+.temas strong { display: block; color: var(--ms-azul); font-size: 16px; }
+.temas span { color: var(--ms-cinza); font-size: 14px; }
+
+.card h2 { margin-top: 0; }
+
+.tabela-dados { width: 100%; border-collapse: collapse; font-size: 14px; }
+.tabela-dados th, .tabela-dados td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e3e3e3; vertical-align: middle; }
+.tabela-dados th { color: var(--ms-cinza); font-weight: 600; }
+.tabela-dados .botoes { margin: 0; }
