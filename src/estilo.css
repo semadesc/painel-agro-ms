@@ -30,7 +30,9 @@ body { font-family: var(--sans-serif); }
   left: 0; right: 0; top: 0; height: auto; margin: 0; padding: 0;
   display: block; border: 0; z-index: 4; background: none; font: inherit;
 }
-#observablehq-header ~ #observablehq-main { margin-top: calc(var(--topo) - 0.5rem); }
+#observablehq-header ~ #observablehq-main { margin-top: calc(var(--topo) + 0.5rem); }
+.grid > * { min-width: 0; }
+.card { overflow-x: auto; }
 #observablehq-sidebar { top: var(--topo); }
 #observablehq-sidebar-toggle { top: var(--topo); height: calc(100% - var(--topo)); }
 :root:has(#observablehq-header) { scroll-padding-top: calc(var(--topo) + 1rem); }
