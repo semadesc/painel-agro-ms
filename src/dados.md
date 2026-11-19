@@ -50,7 +50,7 @@ display(html`<table class="tabela-dados">
 - **CONAB**, Portal de Informações Agropecuárias, arquivos de dados de safra de grãos e de cana-de-açúcar.
 - Malha municipal: IBGE.
 
-## Como os dados são tratados
+## Como os dados são apresentados
 
 - Os valores são mantidos como a fonte publica. "X" indica valor sob sigilo do IBGE.
 - Nas tabelas do IBGE, células vazias e zeros não são armazenados: a ausência de registro equivale a zero.

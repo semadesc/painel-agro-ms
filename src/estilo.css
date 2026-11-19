@@ -67,3 +67,5 @@ h2 { color: var(--ms-preto); font-weight: 700; margin-top: 2rem; }
 .tabela-dados th, .tabela-dados td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e3e3e3; vertical-align: middle; }
 .tabela-dados th { color: var(--ms-cinza); font-weight: 600; }
 .tabela-dados .botoes { margin: 0; }
+.card .tabela-dados { max-width: none; }
+.tabela-dados .botoes { flex-wrap: nowrap; }
