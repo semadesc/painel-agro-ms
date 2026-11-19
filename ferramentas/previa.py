@@ -28,6 +28,16 @@ with sync_playwright() as p:
             log.extend(erros)
             log.extend(f"erro na célula: {t}" for t in erros_tela)
         pg.close()
+    try:
+        pg = nav.new_page(viewport={"width": 1366, "height": 900})
+        pg.goto("https://www.semadesc.ms.gov.br/", wait_until="networkidle", timeout=60000)
+        pg.wait_for_timeout(3000)
+        pg.screenshot(path=str(saida / "oficial.png"))
+        estilos = pg.evaluate("""() => [...document.querySelectorAll('header, header *, nav, nav *, footer, .topo, #topo, body')].slice(0,80)
+          .map(e => [e.tagName + '.' + (e.className||''), getComputedStyle(e).backgroundColor, getComputedStyle(e).color, getComputedStyle(e).fontFamily, Math.round(e.getBoundingClientRect().height)].join(' | '))""")
+        log.append("== oficial"); log.extend(estilos)
+    except Exception as e:
+        log.append(f"== oficial: falhou {e}")
     nav.close()
 (saida / "log.txt").write_text("\n".join(log), encoding="utf-8")
 print("\n".join(log))
