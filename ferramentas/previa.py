@@ -28,6 +28,20 @@ with sync_playwright() as p:
             log.extend(erros)
             log.extend(f"erro na célula: {t}" for t in erros_tela)
         pg.close()
+    # site publicado: verifica os arquivos de dados servidos
+    try:
+        pg = nav.new_page(viewport={"width": 1366, "height": 900})
+        resp = []
+        pg.on("response", lambda r: resp.append(f"{r.status} {r.headers.get('content-type','')} {r.headers.get('content-length','')} {r.url}") if (".parquet" in r.url or "duckdb" in r.url or r.status >= 400) else None)
+        for nome in ["lavouras", "conab"]:
+            pg.goto(f"https://semadesc.github.io/painel-agro-ms/{nome}", wait_until="networkidle", timeout=90000)
+            pg.wait_for_timeout(6000)
+            erros_tela = pg.eval_on_selector_all(".observablehq--error", "els => els.map(e => e.textContent)")
+            log.append(f"== publicado {nome}: {len(erros_tela)} erros"); log.extend(erros_tela[:3])
+        log.extend(resp)
+        pg.close()
+    except Exception as e:
+        log.append(f"== publicado: falhou {e}")
     try:
         pg = nav.new_page(viewport={"width": 1366, "height": 900})
         pg.goto("https://www.semadesc.ms.gov.br/", wait_until="domcontentloaded", timeout=90000)
