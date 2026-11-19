@@ -1,0 +1,726 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+74,2019,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1115
+74,2019,Município,5000252,Alcinópolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1523
+74,2019,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2405
+74,2019,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2717
+74,2019,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7544
+74,2019,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1775
+74,2019,Município,5000906,Antônio João - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,504
+74,2019,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6923
+74,2019,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1771
+74,2019,Município,5001243,Aral Moreira - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,734
+74,2019,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3663
+74,2019,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7378
+74,2019,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3700
+74,2019,Município,5002100,Bela Vista - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2520
+74,2019,Município,5002159,Bodoquena - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1128
+74,2019,Município,5002209,Bonito - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1080
+74,2019,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1275
+74,2019,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2232
+74,2019,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7984
+74,2019,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4574
+74,2019,Município,5002803,Caracol - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,450
+74,2019,Município,5002902,Cassilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7951
+74,2019,Município,5002951,Chapadão do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1142
+74,2019,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1879
+74,2019,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1046
+74,2019,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3510
+74,2019,Município,5003256,Costa Rica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5183
+74,2019,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2300
+74,2019,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3797
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3517
+74,2019,Município,5003504,Douradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,838
+74,2019,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,8265
+74,2019,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1577
+74,2019,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2055
+74,2019,Município,5003900,Figueirão - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1469
+74,2019,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6880
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,704
+74,2019,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,11304
+74,2019,Município,5004403,Inocência - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,10179
+74,2019,Município,5004502,Itaporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,861
+74,2019,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,20865
+74,2019,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5366
+74,2019,Município,5004809,Japorã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4498
+74,2019,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5142
+74,2019,Município,5005004,Jardim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1800
+74,2019,Município,5005103,Jateí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3061
+74,2019,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1184
+74,2019,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,531
+74,2019,Município,5005251,Laguna Carapã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1000
+74,2019,Município,5005400,Maracaju - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,953
+74,2019,Município,5005608,Miranda - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1414
+74,2019,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2934
+74,2019,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1901
+74,2019,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2783
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5364
+74,2019,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,14457
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6247
+74,2019,Município,5006275,Paraíso das Águas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,959
+74,2019,Município,5006309,Paranaíba - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,15533
+74,2019,Município,5006358,Paranhos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3512
+74,2019,Município,5006408,Pedro Gomes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,477
+74,2019,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4725
+74,2019,Município,5006903,Porto Murtinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,720
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1900
+74,2019,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2372
+74,2019,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1648
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3427
+74,2019,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1917
+74,2019,Município,5007554,Santa Rita do Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,872
+74,2019,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2069
+74,2019,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2532
+74,2019,Município,5007802,Selvíria - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5097
+74,2019,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7527
+74,2019,Município,5007935,Sonora - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,180
+74,2019,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2895
+74,2019,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1074
+74,2019,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7406
+74,2019,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,920
+74,2019,Município,5008404,Vicentina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3838
+74,2019,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,1999
+74,2019,Município,5000252,Alcinópolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,41
+74,2019,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,89
+74,2019,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,145
+74,2019,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,22
+74,2019,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,26
+74,2019,Município,5000906,Antônio João - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,35
+74,2019,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,112
+74,2019,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,133
+74,2019,Município,5001243,Aral Moreira - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,62
+74,2019,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,60
+74,2019,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,19
+74,2019,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,42
+74,2019,Município,5002100,Bela Vista - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,123
+74,2019,Município,5002159,Bodoquena - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,113
+74,2019,Município,5002209,Bonito - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,74
+74,2019,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,19
+74,2019,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,52
+74,2019,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,132
+74,2019,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,218
+74,2019,Município,5002803,Caracol - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,36
+74,2019,Município,5002902,Cassilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,2947
+74,2019,Município,5002951,Chapadão do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,25
+74,2019,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,48
+74,2019,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,60
+74,2019,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,112
+74,2019,Município,5003256,Costa Rica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,64
+74,2019,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,69
+74,2019,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,41
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,52
+74,2019,Município,5003504,Douradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,2067
+74,2019,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,5052
+74,2019,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,920
+74,2019,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,63
+74,2019,Município,5003900,Figueirão - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,32
+74,2019,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,35
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,86
+74,2019,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,69
+74,2019,Município,5004403,Inocência - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,39
+74,2019,Município,5004502,Itaporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,38
+74,2019,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,204
+74,2019,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,983
+74,2019,Município,5004809,Japorã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,37
+74,2019,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,191
+74,2019,Município,5005004,Jardim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,42
+74,2019,Município,5005103,Jateí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,21
+74,2019,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,10
+74,2019,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,20
+74,2019,Município,5005251,Laguna Carapã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,420
+74,2019,Município,5005400,Maracaju - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,861
+74,2019,Município,5005608,Miranda - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,91
+74,2019,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,60
+74,2019,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,734
+74,2019,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,203
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,44
+74,2019,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,61
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,29
+74,2019,Município,5006275,Paraíso das Águas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,46
+74,2019,Município,5006309,Paranaíba - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,116
+74,2019,Município,5006358,Paranhos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,46
+74,2019,Município,5006408,Pedro Gomes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,43
+74,2019,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,109
+74,2019,Município,5006903,Porto Murtinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,51
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,94
+74,2019,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,606
+74,2019,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,47
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,68
+74,2019,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,69
+74,2019,Município,5007554,Santa Rita do Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,25
+74,2019,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,3004
+74,2019,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,44
+74,2019,Município,5007802,Selvíria - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,29
+74,2019,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,5503
+74,2019,Município,5007935,Sonora - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,26
+74,2019,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,33
+74,2019,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,9
+74,2019,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,24955
+74,2019,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,47
+74,2019,Município,5008404,Vicentina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,22
+74,2019,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,948
+74,2019,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,16782
+74,2019,Município,5000252,Alcinópolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4050
+74,2019,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2790
+74,2019,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4969
+74,2019,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,9050
+74,2019,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,54940
+74,2019,Município,5000906,Antônio João - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2350
+74,2019,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2500
+74,2019,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6900
+74,2019,Município,5001243,Aral Moreira - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6250
+74,2019,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,32191
+74,2019,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5100
+74,2019,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2337
+74,2019,Município,5002100,Bela Vista - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5755
+74,2019,Município,5002159,Bodoquena - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4472
+74,2019,Município,5002209,Bonito - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,9640
+74,2019,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,103223
+74,2019,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5340
+74,2019,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,20830
+74,2019,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,41798
+74,2019,Município,5002803,Caracol - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1150
+74,2019,Município,5002902,Cassilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,27440
+74,2019,Município,5002951,Chapadão do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,40302
+74,2019,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,600
+74,2019,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2620
+74,2019,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6197
+74,2019,Município,5003256,Costa Rica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6004
+74,2019,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,9213
+74,2019,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4516
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6250
+74,2019,Município,5003504,Douradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,300
+74,2019,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,50449
+74,2019,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3242
+74,2019,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1540
+74,2019,Município,5003900,Figueirão - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2445
+74,2019,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3752
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,30827
+74,2019,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1822
+74,2019,Município,5004403,Inocência - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,21600
+74,2019,Município,5004502,Itaporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1178
+74,2019,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2695
+74,2019,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,7000
+74,2019,Município,5004809,Japorã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4720
+74,2019,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,48778
+74,2019,Município,5005004,Jardim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,41780
+74,2019,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1000
+74,2019,Município,5005251,Laguna Carapã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,426
+74,2019,Município,5005400,Maracaju - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,7010
+74,2019,Município,5005608,Miranda - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,8552
+74,2019,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,8831
+74,2019,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,9238
+74,2019,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,19205
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,330
+74,2019,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5918
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3000
+74,2019,Município,5006275,Paraíso das Águas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,510
+74,2019,Município,5006309,Paranaíba - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,145
+74,2019,Município,5006358,Paranhos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,324
+74,2019,Município,5006408,Pedro Gomes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1300
+74,2019,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4114
+74,2019,Município,5006903,Porto Murtinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6140
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6036
+74,2019,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4765
+74,2019,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,600
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,10798
+74,2019,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5266
+74,2019,Município,5007554,Santa Rita do Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,14806
+74,2019,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3208
+74,2019,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2062
+74,2019,Município,5007802,Selvíria - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,40484
+74,2019,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,13863
+74,2019,Município,5007935,Sonora - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,48
+74,2019,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2004
+74,2019,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2730
+74,2019,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5804
+74,2019,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,121520
+74,2019,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,5924
+74,2019,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,10044
+74,2019,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,1172
+74,2019,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,110420
+74,2019,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,925
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,631
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,1530
+74,2019,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,660
+74,2019,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,154
+74,2019,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,167
+74,2019,Município,5000252,Alcinópolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,75
+74,2019,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2495
+74,2019,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,759
+74,2019,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,690
+74,2019,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,125
+74,2019,Município,5000906,Antônio João - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,809
+74,2019,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,196
+74,2019,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2600
+74,2019,Município,5001243,Aral Moreira - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,357
+74,2019,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,551
+74,2019,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,214
+74,2019,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,158
+74,2019,Município,5002100,Bela Vista - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,7695
+74,2019,Município,5002159,Bodoquena - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1217
+74,2019,Município,5002209,Bonito - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1915
+74,2019,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,509
+74,2019,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,390
+74,2019,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2159
+74,2019,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2889
+74,2019,Município,5002803,Caracol - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1090
+74,2019,Município,5002902,Cassilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,421
+74,2019,Município,5002951,Chapadão do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,437
+74,2019,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,390
+74,2019,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,803
+74,2019,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,4512
+74,2019,Município,5003256,Costa Rica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,873
+74,2019,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,615
+74,2019,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,105
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,805
+74,2019,Município,5003504,Douradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,100
+74,2019,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,724
+74,2019,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,123
+74,2019,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,126
+74,2019,Município,5003900,Figueirão - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,772
+74,2019,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,125
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,995
+74,2019,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1104
+74,2019,Município,5004403,Inocência - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,792
+74,2019,Município,5004502,Itaporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,214
+74,2019,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,395
+74,2019,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,283
+74,2019,Município,5004809,Japorã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,119
+74,2019,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,728
+74,2019,Município,5005004,Jardim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1574
+74,2019,Município,5005103,Jateí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,863
+74,2019,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,410
+74,2019,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,215
+74,2019,Município,5005251,Laguna Carapã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,428
+74,2019,Município,5005400,Maracaju - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,512
+74,2019,Município,5005608,Miranda - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,849
+74,2019,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,205
+74,2019,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,354
+74,2019,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1394
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,908
+74,2019,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1589
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,850
+74,2019,Município,5006275,Paraíso das Águas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,371
+74,2019,Município,5006309,Paranaíba - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1013
+74,2019,Município,5006358,Paranhos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,909
+74,2019,Município,5006408,Pedro Gomes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,252
+74,2019,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2521
+74,2019,Município,5006903,Porto Murtinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,3192
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1762
+74,2019,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,462
+74,2019,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,485
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1435
+74,2019,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,672
+74,2019,Município,5007554,Santa Rita do Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,916
+74,2019,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,637
+74,2019,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,437
+74,2019,Município,5007802,Selvíria - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,494
+74,2019,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1147
+74,2019,Município,5007935,Sonora - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,145
+74,2019,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,723
+74,2019,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,266
+74,2019,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1055
+74,2019,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,651
+74,2019,Município,5008404,Vicentina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,58
+74,2019,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,23675
+74,2019,Município,5000252,Alcinópolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2088
+74,2019,Município,5000609,Amambai - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2997
+74,2019,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3909
+74,2019,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,9122
+74,2019,Município,5000856,Angélica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2687
+74,2019,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,729
+74,2019,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,7633
+74,2019,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2557
+74,2019,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1164
+74,2019,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,4870
+74,2019,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,9210
+74,2019,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,4346
+74,2019,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3581
+74,2019,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1811
+74,2019,Município,5002209,Bonito - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1720
+74,2019,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2285
+74,2019,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3352
+74,2019,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,10060
+74,2019,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,6725
+74,2019,Município,5002803,Caracol - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,763
+74,2019,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,41716
+74,2019,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1803
+74,2019,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2398
+74,2019,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1416
+74,2019,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,4842
+74,2019,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,6516
+74,2019,Município,5003306,Coxim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3167
+74,2019,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,4444
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,4553
+74,2019,Município,5003504,Douradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,9226
+74,2019,Município,5003702,Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,26018
+74,2019,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,5297
+74,2019,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2877
+74,2019,Município,5003900,Figueirão - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1946
+74,2019,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,8823
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1519
+74,2019,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,12401
+74,2019,Município,5004403,Inocência - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,12511
+74,2019,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1240
+74,2019,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,25655
+74,2019,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,10018
+74,2019,Município,5004809,Japorã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,4750
+74,2019,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,7224
+74,2019,Município,5005004,Jardim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2634
+74,2019,Município,5005103,Jateí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3879
+74,2019,Município,5005152,Juti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1274
+74,2019,Município,5005202,Ladário - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,745
+74,2019,Município,5005251,Laguna Carapã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1955
+74,2019,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3300
+74,2019,Município,5005608,Miranda - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1757
+74,2019,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3517
+74,2019,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,5029
+74,2019,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3879
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,6427
+74,2019,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,17417
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,7610
+74,2019,Município,5006275,Paraíso das Águas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1363
+74,2019,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,18846
+74,2019,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3951
+74,2019,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,793
+74,2019,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,5619
+74,2019,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1182
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2779
+74,2019,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3412
+74,2019,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2198
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,4598
+74,2019,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2556
+74,2019,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1316
+74,2019,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,12949
+74,2019,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,2889
+74,2019,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,6699
+74,2019,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,17490
+74,2019,Município,5007935,Sonora - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,332
+74,2019,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,3898
+74,2019,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1346
+74,2019,Município,5008008,Terenos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,95830
+74,2019,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,1989
+74,2019,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,0,Total,5061
+74,2019,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1372
+74,2019,Município,5000252,Alcinópolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1797
+74,2019,Município,5000609,Amambai - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2549
+74,2019,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,3206
+74,2019,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,8902
+74,2019,Município,5000856,Angélica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2095
+74,2019,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,534
+74,2019,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,7131
+74,2019,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1877
+74,2019,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,778
+74,2019,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4322
+74,2019,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,9075
+74,2019,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4144
+74,2019,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2822
+74,2019,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1139
+74,2019,Município,5002209,Bonito - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1210
+74,2019,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1568
+74,2019,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2990
+74,2019,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,9182
+74,2019,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,5214
+74,2019,Município,5002803,Caracol - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,554
+74,2019,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,9382
+74,2019,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1347
+74,2019,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2161
+74,2019,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1109
+74,2019,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4142
+74,2019,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,6116
+74,2019,Município,5003306,Coxim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2714
+74,2019,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4025
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4150
+74,2019,Município,5003504,Douradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,889
+74,2019,Município,5003702,Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,8348
+74,2019,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1625
+74,2019,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2527
+74,2019,Município,5003900,Figueirão - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1734
+74,2019,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,8394
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,788
+74,2019,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,11983
+74,2019,Município,5004403,Inocência - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,12011
+74,2019,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1059
+74,2019,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,22534
+74,2019,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,6332
+74,2019,Município,5004809,Japorã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4543
+74,2019,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,5964
+74,2019,Município,5005004,Jardim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2016
+74,2019,Município,5005103,Jateí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,3765
+74,2019,Município,5005152,Juti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1231
+74,2019,Município,5005202,Ladário - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,627
+74,2019,Município,5005251,Laguna Carapã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1431
+74,2019,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1010
+74,2019,Município,5005608,Miranda - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1131
+74,2019,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,3110
+74,2019,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2053
+74,2019,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2755
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,6222
+74,2019,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,17059
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,7371
+74,2019,Município,5006275,Paraíso das Águas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1132
+74,2019,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,18329
+74,2019,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,3723
+74,2019,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,567
+74,2019,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,5008
+74,2019,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,806
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2185
+74,2019,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2396
+74,2019,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1945
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4044
+74,2019,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2147
+74,2019,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1072
+74,2019,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2441
+74,2019,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,2684
+74,2019,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,6270
+74,2019,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,8882
+74,2019,Município,5007935,Sonora - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,212
+74,2019,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,3735
+74,2019,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1268
+74,2019,Município,5008008,Terenos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,8517
+74,2019,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,1030
+74,2019,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2682,Leite,4951
+74,2019,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,22192
+74,2019,Município,5000252,Alcinópolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,210
+74,2019,Município,5000609,Amambai - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,393
+74,2019,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,623
+74,2019,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,93
+74,2019,Município,5000856,Angélica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,113
+74,2019,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,143
+74,2019,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,458
+74,2019,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,569
+74,2019,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,317
+74,2019,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,316
+74,2019,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,79
+74,2019,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,172
+74,2019,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,626
+74,2019,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,576
+74,2019,Município,5002209,Bonito - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,377
+74,2019,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,84
+74,2019,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,264
+74,2019,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,671
+74,2019,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,1113
+74,2019,Município,5002803,Caracol - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,185
+74,2019,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,32003
+74,2019,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,103
+74,2019,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,223
+74,2019,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,260
+74,2019,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,562
+74,2019,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,328
+74,2019,Município,5003306,Coxim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,357
+74,2019,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,219
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,269
+74,2019,Município,5003504,Douradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,8330
+74,2019,Município,5003702,Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,16875
+74,2019,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,3635
+74,2019,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,319
+74,2019,Município,5003900,Figueirão - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,164
+74,2019,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,175
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,437
+74,2019,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,352
+74,2019,Município,5004403,Inocência - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,171
+74,2019,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,156
+74,2019,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,1001
+74,2019,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,3607
+74,2019,Município,5004809,Japorã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,150
+74,2019,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,896
+74,2019,Município,5005004,Jardim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,222
+74,2019,Município,5005103,Jateí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,109
+74,2019,Município,5005152,Juti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,41
+74,2019,Município,5005202,Ladário - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,102
+74,2019,Município,5005251,Laguna Carapã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,512
+74,2019,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,2152
+74,2019,Município,5005608,Miranda - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,484
+74,2019,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,245
+74,2019,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,2840
+74,2019,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,872
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,182
+74,2019,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,262
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,156
+74,2019,Município,5006275,Paraíso das Águas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,221
+74,2019,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,509
+74,2019,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,216
+74,2019,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,201
+74,2019,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,515
+74,2019,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,270
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,508
+74,2019,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,951
+74,2019,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,238
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,352
+74,2019,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,367
+74,2019,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,126
+74,2019,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,10453
+74,2019,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,179
+74,2019,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,120
+74,2019,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,8475
+74,2019,Município,5007935,Sonora - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,119
+74,2019,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,135
+74,2019,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,38
+74,2019,Município,5008008,Terenos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,86344
+74,2019,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,208
+74,2019,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2685,Ovos de galinha,110
+74,2019,Município,5008008,Terenos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2686,Ovos de codorna,891
+74,2019,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,110
+74,2019,Município,5000252,Alcinópolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,81
+74,2019,Município,5000609,Amambai - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,41
+74,2019,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,76
+74,2019,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,123
+74,2019,Município,5000856,Angélica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,478
+74,2019,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,47
+74,2019,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,43
+74,2019,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,97
+74,2019,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,67
+74,2019,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,229
+74,2019,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,55
+74,2019,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,29
+74,2019,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,89
+74,2019,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,89
+74,2019,Município,5002209,Bonito - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,122
+74,2019,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,630
+74,2019,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,96
+74,2019,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,194
+74,2019,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,382
+74,2019,Município,5002803,Caracol - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,18
+74,2019,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,329
+74,2019,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,351
+74,2019,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,12
+74,2019,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,42
+74,2019,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,112
+74,2019,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,67
+74,2019,Município,5003306,Coxim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,92
+74,2019,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,90
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,129
+74,2019,Município,5003504,Douradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,6
+74,2019,Município,5003702,Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,791
+74,2019,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,36
+74,2019,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,30
+74,2019,Município,5003900,Figueirão - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,43
+74,2019,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,68
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,288
+74,2019,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,36
+74,2019,Município,5004403,Inocência - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,324
+74,2019,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,24
+74,2019,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,52
+74,2019,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,60
+74,2019,Município,5004809,Japorã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,56
+74,2019,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,360
+74,2019,Município,5005004,Jardim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,387
+74,2019,Município,5005202,Ladário - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,15
+74,2019,Município,5005251,Laguna Carapã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,10
+74,2019,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,135
+74,2019,Município,5005608,Miranda - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,137
+74,2019,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,161
+74,2019,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,134
+74,2019,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,245
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,5
+74,2019,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,87
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,54
+74,2019,Município,5006275,Paraíso das Águas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,8
+74,2019,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,2
+74,2019,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,7
+74,2019,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,23
+74,2019,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,70
+74,2019,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,87
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,76
+74,2019,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,60
+74,2019,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,12
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,194
+74,2019,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,38
+74,2019,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,113
+74,2019,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,51
+74,2019,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,23
+74,2019,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,306
+74,2019,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,126
+74,2019,Município,5007935,Sonora - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,0
+74,2019,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,24
+74,2019,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,38
+74,2019,Município,5008008,Terenos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,72
+74,2019,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2687,Mel de abelha,747
+74,2019,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,109
+74,2019,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,185
+74,2019,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,24
+74,2019,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,2066
+74,2019,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,17
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,13
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,24
+74,2019,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,11
+74,2019,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,2
+74,2019,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5000252,Alcinópolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,0
+74,2019,Município,5000609,Amambai - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,14
+74,2019,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5000856,Angélica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,14
+74,2019,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,3
+74,2019,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,44
+74,2019,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,7
+74,2019,Município,5002209,Bonito - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,11
+74,2019,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,3
+74,2019,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,13
+74,2019,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,16
+74,2019,Município,5002803,Caracol - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,6
+74,2019,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,26
+74,2019,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5003306,Coxim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5003504,Douradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5003702,Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5003900,Figueirão - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,6
+74,2019,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,6
+74,2019,Município,5004403,Inocência - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5004809,Japorã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5005004,Jardim - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,9
+74,2019,Município,5005103,Jateí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5005152,Juti - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5005202,Ladário - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5005251,Laguna Carapã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,3
+74,2019,Município,5005608,Miranda - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,7
+74,2019,Município,5006002,Nova Alvorada do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,9
+74,2019,Município,5006259,Novo Horizonte do Sul - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5006275,Paraíso das Águas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,6
+74,2019,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,15
+74,2019,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,19
+74,2019,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,10
+74,2019,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,3
+74,2019,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,3
+74,2019,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,8
+74,2019,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,5
+74,2019,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,3
+74,2019,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,3
+74,2019,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,7
+74,2019,Município,5007935,Sonora - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,1
+74,2019,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,2
+74,2019,Município,5008008,Terenos - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,6
+74,2019,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,4
+74,2019,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Reais,Tipo de produto de origem animal,2684,Lã,0

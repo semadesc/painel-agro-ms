@@ -1,0 +1,78 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,0,Total,7231934
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39428,"1 Cereais, leguminosas e oleaginosas",6515996
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39429,1.1 Algodão herbáceo,29639
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39430,1.2 Amendoim (1ª Safra),7013
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39432,1.4 Arroz,6775
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39436,1.9 Feijão (1ª Safra),542
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39437,1.10 Feijão (2ª Safra),9394
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39438,1.11 Feijão (3ª Safra),1469
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39441,1.15 Milho (1ª Safra),21743
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39442,1.16 Milho (2ª Safra),2377203
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39443,1.17 Soja,3884468
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39444,1.18 Sorgo,128873
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39445,1.19 Trigo,48877
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39449,4 Banana,1372
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39454,9 Café arábica,168
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39456,11 Cana-de-açúcar,660722
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39463,18 Laranja,1536
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39467,21 Mandioca,52083
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39470,24 Tomate,52
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,109,Área plantada,Hectares,Produto das lavouras,39471,25 Uva,5
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,0,Total,7231752
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39428,"1 Cereais, leguminosas e oleaginosas",6515834
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39429,1.1 Algodão herbáceo,29639
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39430,1.2 Amendoim (1ª Safra),7013
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39432,1.4 Arroz,6730
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39436,1.9 Feijão (1ª Safra),542
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39437,1.10 Feijão (2ª Safra),9343
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39438,1.11 Feijão (3ª Safra),1458
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39441,1.15 Milho (1ª Safra),21703
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39442,1.16 Milho (2ª Safra),2377188
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39443,1.17 Soja,3884468
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39444,1.18 Sorgo,128873
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39445,1.19 Trigo,48877
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39449,4 Banana,1372
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39454,9 Café arábica,168
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39456,11 Cana-de-açúcar,660722
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39463,18 Laranja,1536
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39467,21 Mandioca,52064
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39470,24 Tomate,51
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,216,Área colhida,Hectares,Produto das lavouras,39471,25 Uva,5
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39428,"1 Cereais, leguminosas e oleaginosas",28427463
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39429,1.1 Algodão herbáceo,145288
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39430,1.2 Amendoim (1ª Safra),20421
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39432,1.4 Arroz,43529
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39436,1.9 Feijão (1ª Safra),1160
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39437,1.10 Feijão (2ª Safra),13629
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39438,1.11 Feijão (3ª Safra),3067
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39441,1.15 Milho (1ª Safra),178832
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39442,1.16 Milho (2ª Safra),13289710
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39443,1.17 Soja,14193250
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39444,1.18 Sorgo,466462
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39445,1.19 Trigo,128777
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39449,4 Banana,16171
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39454,9 Café arábica,292
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39456,11 Cana-de-açúcar,51789876
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39463,18 Laranja,35068
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39467,21 Mandioca,1157134
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39470,24 Tomate,1729
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,35,Produção,Toneladas,Produto das lavouras,39471,25 Uva,53
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39429,1.1 Algodão herbáceo,4902
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39430,1.2 Amendoim (1ª Safra),2912
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39432,1.4 Arroz,6468
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39436,1.9 Feijão (1ª Safra),2140
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39437,1.10 Feijão (2ª Safra),1459
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39438,1.11 Feijão (3ª Safra),2104
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39441,1.15 Milho (1ª Safra),8240
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39442,1.16 Milho (2ª Safra),5591
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39443,1.17 Soja,3654
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39444,1.18 Sorgo,3620
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39445,1.19 Trigo,2635
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39449,4 Banana,11786
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39454,9 Café arábica,1738
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39456,11 Cana-de-açúcar,78384
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39463,18 Laranja,22831
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39467,21 Mandioca,22225
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39470,24 Tomate,33902
+6588,202312,Unidade da Federação,50,Mato Grosso do Sul,36,Rendimento médio,Quilogramas por Hectare,Produto das lavouras,39471,25 Uva,10600

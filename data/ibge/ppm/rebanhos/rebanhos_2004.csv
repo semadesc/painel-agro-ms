@@ -1,0 +1,618 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,808456
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,340320
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,370095
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,308536
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,321186
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,150628
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,122010
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,232994
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,621985
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,69952
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,272774
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,225124
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,212578
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,430568
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,179976
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,388935
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,547818
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,160120
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,842080
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,679274
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,263345
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,305968
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,236734
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,243012
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,89093
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,1889553
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,394423
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,562515
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,104920
+3939,2004,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,270415
+3939,2004,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,14460
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,259090
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,104304
+3939,2004,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,16340
+3939,2004,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,66890
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,147965
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,282778
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,540946
+3939,2004,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,55810
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,203245
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,242752
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,57043
+3939,2004,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,206638
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,205222
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,206520
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,148109
+3939,2004,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,17980
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,77493
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,326624
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,351754
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,43504
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,267870
+3939,2004,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,380295
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,356110
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,506592
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,113430
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,574890
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,115615
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,308720
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,274215
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,698378
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,1380930
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,247770
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,130426
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,606595
+3939,2004,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,157443
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,609240
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,250398
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,101128
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,277228
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,397185
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,179087
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,189067
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,89375
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,294298
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,957151
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,31082
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,284
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,24
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,131
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,162
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,470
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,1730
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,14
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,261
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,212
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,49
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,200
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,253
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,898
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,220
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,775
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,415
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,223
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,271
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,91
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,357
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,130
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,173
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,131
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,48
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,20
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,1591
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,207
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,388
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,127
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,241
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,122
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,78
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,336
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,38
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,86
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,720
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,50
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,98
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,31
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,150
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,30
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,251
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,86
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,190
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,275
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,152
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,1355
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,122
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,442
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,205
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,89
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,23
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,240
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,750
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,312
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,120
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,354
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,404
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,22
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,45
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,243
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,80
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,194
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,134
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,32
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,15
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,449
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,149
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,7267
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3408
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5596
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4134
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5490
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3410
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1862
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5032
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,9274
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1495
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3810
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3947
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3310
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5635
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3545
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6150
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6369
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3745
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,11450
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,10624
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3224
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4862
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3412
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4620
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1960
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,30327
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5314
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6748
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3022
+3939,2004,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3200
+3939,2004,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,505
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4980
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2469
+3939,2004,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,938
+3939,2004,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1975
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2710
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4729
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,7668
+3939,2004,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1815
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3802
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4480
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1299
+3939,2004,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3923
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2870
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3430
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2170
+3939,2004,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,608
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1487
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5415
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5240
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1487
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4770
+3939,2004,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6100
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4138
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6385
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2605
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,10832
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2284
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3600
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6230
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,7593
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,10929
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4140
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2210
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,8295
+3939,2004,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2658
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6129
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3424
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2295
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4508
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5872
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1470
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2843
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1820
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5358
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,12099
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1570
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3572
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5589
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,19471
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4007
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3049
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2240
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2236
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8938
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4938
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3839
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2701
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8342
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4508
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3822
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2866
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,6725
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,60501
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,11800
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,12766
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,37716
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2425
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8823
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,13066
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2628
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2077
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,15296
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,19640
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,12644
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,9444
+3939,2004,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4714
+3939,2004,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5377
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,38672
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1103
+3939,2004,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,14047
+3939,2004,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,53352
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5905
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1841
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,7351
+3939,2004,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,60310
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5253
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,11720
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1451
+3939,2004,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5130
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3445
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,23196
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4492
+3939,2004,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,701
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,10175
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,18314
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3173
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2875
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,15060
+3939,2004,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8834
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2831
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4410
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,6480
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,14168
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1737
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3746
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,13402
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3469
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4180
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,15862
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2495
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5165
+3939,2004,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2335
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2821
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,106509
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2013
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2254
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,6945
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1759
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4084
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1695
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8409
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,6300
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,12797
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,374
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,110
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,481
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,340
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,845
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,202
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,202
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,309
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,485
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,187
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,310
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,516
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,210
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,940
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,462
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,782
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,342
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,417
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,577
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,1783
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,460
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,223
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,264
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,185
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,139
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,1624
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,340
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,249
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,175
+3939,2004,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,250
+3939,2004,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,76
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,402
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,107
+3939,2004,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,133
+3939,2004,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,139
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,212
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,464
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,271
+3939,2004,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,194
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,240
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,383
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,62
+3939,2004,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,250
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,398
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,174
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,400
+3939,2004,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,879
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,104
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,88
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,250
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,108
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,190
+3939,2004,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,1200
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,690
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,370
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,95
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,355
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,464
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,324
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,219
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,1756
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,550
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,205
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,160
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,1132
+3939,2004,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,182
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,275
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,406
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,232
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,360
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,210
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,428
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,297
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,160
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,284
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,786
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,155
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7826
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3658
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,12384
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4625
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7360
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1950
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5200
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5059
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10948
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5710
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3500
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3310
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2990
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,12529
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4470
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10506
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5288
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3831
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10263
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10206
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10970
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5638
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5023
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5976
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4980
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,18823
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4970
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7226
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1996
+3939,2004,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3754
+3939,2004,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,782
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5579
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,957
+3939,2004,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,469
+3939,2004,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1248
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3880
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6550
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7695
+3939,2004,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1610
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2716
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3250
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,512
+3939,2004,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2569
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4610
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3298
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3434
+3939,2004,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,880
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3588
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6629
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4525
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,790
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4610
+3939,2004,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10250
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2140
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7385
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1180
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7814
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2532
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5145
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10840
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,13320
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,13600
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1910
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2502
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,14022
+3939,2004,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2785
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7233
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5705
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2976
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3397
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4615
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1987
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4802
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1700
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4120
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,13826
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,420
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,16052
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,30725
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,1016764
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,36932
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20005
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,19190
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,12004
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,770843
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,46831
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,30482
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,156273
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,15110
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,26930
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,35952
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,31464
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,48267
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,17472
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,1388332
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,61785
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,680235
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,25166
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,40243
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,52205
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,42615
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,18890
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,61032
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,65995
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,46763
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,114907
+3939,2004,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,521176
+3939,2004,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,681205
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,2494832
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,19330
+3939,2004,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,1299967
+3939,2004,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,872236
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,48040
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,26252
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,36902
+3939,2004,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,1048482
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,32153
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,73430
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,15201
+3939,2004,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,316749
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,24675
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,227280
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,254736
+3939,2004,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,5389
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,438353
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,396590
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,32800
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,24530
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,116480
+3939,2004,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,106316
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,23725
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,45540
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,56520
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,241394
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20354
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,35806
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,252956
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,21924
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,33392
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,367692
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,18251
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,35703
+3939,2004,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,92063
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,18776
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,115438
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,28688
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,19728
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,5223066
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20747
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,13236
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,11500
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,2718429
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,40930
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,503794
+3939,2004,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7445
+3939,2004,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,17029
+3939,2004,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,37756
+3939,2004,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,19853
+3939,2004,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,12610
+3939,2004,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9980
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6220
+3939,2004,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,23753
+3939,2004,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,21892
+3939,2004,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,16382
+3939,2004,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,36800
+3939,2004,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6094
+3939,2004,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,11610
+3939,2004,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,20932
+3939,2004,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,15544
+3939,2004,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,30090
+3939,2004,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6732
+3939,2004,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9352
+3939,2004,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,34278
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,46749
+3939,2004,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10480
+3939,2004,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,17531
+3939,2004,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,34209
+3939,2004,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,16964
+3939,2004,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7830
+3939,2004,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,34470
+3939,2004,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,33146
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,21759
+3939,2004,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10824
+3939,2004,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,14800
+3939,2004,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,8305
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,145396
+3939,2004,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10150
+3939,2004,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,23367
+3939,2004,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10936
+3939,2004,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,17390
+3939,2004,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,8843
+3939,2004,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,15975
+3939,2004,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,27682
+3939,2004,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,14553
+3939,2004,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,35580
+3939,2004,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6161
+3939,2004,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,28200
+3939,2004,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,12075
+3939,2004,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,12980
+3939,2004,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,4200
+3939,2004,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,2891
+3939,2004,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,26092
+3939,2004,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,82216
+3939,2004,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10550
+3939,2004,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10490
+3939,2004,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,49310
+3939,2004,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,61960
+3939,2004,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9425
+3939,2004,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,20310
+3939,2004,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,27580
+3939,2004,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,42958
+3939,2004,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9876
+3939,2004,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,17737
+3939,2004,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,29030
+3939,2004,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,12724
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,17436
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,91602
+3939,2004,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10151
+3939,2004,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,24111
+3939,2004,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,15965
+3939,2004,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7555
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,54232
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,12148
+3939,2004,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7685
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,324266
+3939,2004,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7757
+3939,2004,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6044
+3939,2004,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5400
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,672000
+3939,2004,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,17494
+3939,2004,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,13694
+3939,2004,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,40
+3939,2004,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,4920
+3939,2004,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,117
+3939,2004,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,800
+3939,2004,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,80
+3939,2004,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,460
+3939,2004,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,223
+3939,2004,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,40
+3939,2004,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,300
+3939,2004,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,25500

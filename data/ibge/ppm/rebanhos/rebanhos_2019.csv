@@ -1,0 +1,698 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,451887
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,327393
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,315321
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,274627
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,258540
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,56307
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,36939
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,165407
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,748882
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,22546
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,206232
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,181843
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,154838
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,402999
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,160921
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,343379
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,379863
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,66322
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,514472
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,501175
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,277483
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,251415
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,123995
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,207790
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,61429
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,1775028
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,160989
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,523928
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,70459
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,197661
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,8896
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,119343
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,66586
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,15726
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,247323
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,62297
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,102989
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,253069
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,411677
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,26604
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,165553
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,130128
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,35656
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,181903
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,187655
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,105182
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,82122
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,7808
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,22323
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,148159
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,334075
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,24202
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,163008
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,411382
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,184397
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,358646
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,56991
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,287352
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,481942
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,95099
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,290945
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,121184
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,644655
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,1045944
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,92018
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,120542
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,579306
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,130056
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,490113
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,197910
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,61686
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,158326
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,240773
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,163430
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,178563
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,71584
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,260451
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,540685
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2670,Bovino,21574
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,46
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,138
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,291
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,589
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,15
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,425
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,345
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,714
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,61
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,1058
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,392
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,309
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,91
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,13
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,112
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,133
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,274
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,394
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,120
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,20
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,14
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,4153
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,77
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,544
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,20
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,28
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,34
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,55
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,18
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,3
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,51
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,8
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,140
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,36
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,23
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,52
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,142
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,58
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,105
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,3
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,26
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,122
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,337
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,52
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,329
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,20
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,632
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,40
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,170
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,4
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,52
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,571
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,132
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,105
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,482
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,10
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,325
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,1
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,43
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,51
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,3
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,254
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,44
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2675,Bubalino,47
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5281
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3795
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6131
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4376
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4069
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1683
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1459
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3689
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,12929
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1071
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4265
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3438
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2624
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,7294
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3064
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6585
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4629
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2438
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,7704
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,14129
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3627
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4490
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2409
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3186
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1555
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,38546
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3877
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6979
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1712
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3435
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,284
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4119
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1492
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,515
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3752
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1219
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3562
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4008
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6835
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1153
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4035
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2731
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1545
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4062
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3369
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2442
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1830
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,396
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1220
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4294
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5452
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1133
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,4089
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6270
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3528
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5814
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1187
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3465
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,9855
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1384
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2994
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,11359
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,10233
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,11655
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2495
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2476
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,10739
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2691
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6317
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3003
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1777
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,3262
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,6355
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1485
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,2689
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,1559
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,5039
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,8813
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2672,Equino,555
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,938
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2378
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8937
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1545
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1534
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1089
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,881
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1423
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1308
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2035
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,51773
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,11031
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,685
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2422
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,863
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2249
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,181340
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,27504
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,13263
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,45373
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,920
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1842
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1086
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1403
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1257
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4785
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2240
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4946
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,11675
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1460
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,10450
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,112039
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,602
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,32777
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1575
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,191138
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,991
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1593
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1638
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,103012
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2712
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,90772
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1584
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,13553
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,972
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,156350
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2537
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,119
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2000
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5369
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,622
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1967
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8392
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,5048
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2031
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1517
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,999
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2178
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,4329
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2096
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,505
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,26918
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2326
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2146
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,14000
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,945
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,6325
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,3355
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,831
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,249780
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1400
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,2509
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,8363
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,830
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,1703
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,846
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,7879
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,965
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32794,Suíno - total,29093
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,60
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,314
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,1504
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,61
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,372
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,211
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,60
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,182
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,134
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,257
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,175
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,267
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,61
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,173
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,44
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,332
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,15124
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,3352
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,361
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,6500
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,111
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,450
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,47
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,108
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,110
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,434
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,495
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,1153
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,47
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,53
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,25
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,6015
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,147
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,219
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,132
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,4145
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,65
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,110
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,236
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,2303
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,41
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,16573
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,65
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,117
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,103
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,17337
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,93
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,5
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,409
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,867
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,23
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,318
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,1726
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,756
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,118
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,152
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,36
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,423
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,919
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,75
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,45
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,4655
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,311
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,267
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,3100
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,87
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,126
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,62
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,58
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,21841
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,79
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,32
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,269
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,23
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,272
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,223
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,890
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,51
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32795,Suíno - matrizes de suínos,1372
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,246
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,32
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,497
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,286
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,165
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,52
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,99
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,101
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,476
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,133
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,338
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,227
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,250
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,436
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,881
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,274
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,309
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,177
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,307
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,765
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,665
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,227
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,141
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,303
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,150
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,2550
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,184
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,816
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,62
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,23
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,4
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,290
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,2
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,52
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,237
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,92
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,784
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,137
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,380
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,50
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,165
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,135
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,20
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,264
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,270
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,207
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,71
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,89
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,229
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,52
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,491
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,151
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,386
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,631
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,327
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,517
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,122
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,160
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,405
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,210
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,2042
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,695
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,2018
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,508
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,25
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,38
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,908
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,181
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,632
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,307
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,81
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,85
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,434
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,6
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,33
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,30
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,61
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,1330
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2681,Caprino,27
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6821
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4176
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10094
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5409
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5989
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1875
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2877
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3772
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,12175
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3541
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3211
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3686
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2901
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,15018
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5185
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10930
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,8476
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3178
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,8182
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,14896
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,9438
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6971
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3768
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4680
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3650
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,21356
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5477
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7002
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,836
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3589
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,373
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7874
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1737
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,510
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6171
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,623
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5478
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5649
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6583
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1731
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1655
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2755
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,727
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3952
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6210
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3872
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2784
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,729
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1904
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5097
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4655
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1368
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3136
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,11353
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,4686
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,8424
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2097
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2910
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,7176
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2549
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2882
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,10065
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,14665
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,18009
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2794
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1918
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,11854
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3164
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,9881
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,5336
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2191
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,2567
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,9567
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1493
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,3820
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,1797
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,6851
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,9879
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2677,Ovino,259
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,275001
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,29436
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,404469
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,38052
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,12552
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,69306
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,22634
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,1488012
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,37431
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,26947
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,42154
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,18859
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,31053
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,36329
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,30708
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,41992
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,16324
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,981219
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,38164
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,387416
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20924
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,332000
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,19182
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,38649
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,70945
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,58677
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,42936
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,42735
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,114781
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,501117
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,190000
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,2995387
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,86592
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,833984
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20970
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,858422
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,45370
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,788559
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,29428
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,816800
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,2632075
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,1721763
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,25668
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,64224
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,25576
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,357097
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,384600
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,6325
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,571653
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,292072
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,39039
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,28930
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,120811
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,70679
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,23407
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,32685
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,159200
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,24586
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,96914
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,135000
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,32716
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,93600
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,21082
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,35747
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,230033
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,16603
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,29496
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,29123
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20468
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,265946
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,17381
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20385
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,7851303
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,20397
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,286276
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,6668
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,1400000
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,28684
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32796,Galináceos - total,524573
+3939,2019,Município,5000203,Água Clara - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,128470
+3939,2019,Município,5000252,Alcinópolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7467
+3939,2019,Município,5000609,Amambai - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,18633
+3939,2019,Município,5000708,Anastácio - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,19623
+3939,2019,Município,5000807,Anaurilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,3587
+3939,2019,Município,5000856,Angélica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5000
+3939,2019,Município,5000906,Antônio João - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6970
+3939,2019,Município,5001003,Aparecida do Taboado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10262
+3939,2019,Município,5001102,Aquidauana - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,11320
+3939,2019,Município,5001243,Aral Moreira - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,12226
+3939,2019,Município,5001508,Bandeirantes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,8596
+3939,2019,Município,5001904,Bataguassu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6250
+3939,2019,Município,5002001,Batayporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7786
+3939,2019,Município,5002100,Bela Vista - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10066
+3939,2019,Município,5002159,Bodoquena - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,16981
+3939,2019,Município,5002209,Bonito - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9808
+3939,2019,Município,5002308,Brasilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5245
+3939,2019,Município,5002407,Caarapó - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6180
+3939,2019,Município,5002605,Camapuã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10013
+3939,2019,Município,5002704,Campo Grande - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,38820
+3939,2019,Município,5002803,Caracol - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,4512
+3939,2019,Município,5002902,Cassilândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,200206
+3939,2019,Município,5002951,Chapadão do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6240
+3939,2019,Município,5003108,Corguinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,14243
+3939,2019,Município,5003157,Coronel Sapucaia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6200
+3939,2019,Município,5003207,Corumbá - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,11708
+3939,2019,Município,5003256,Costa Rica - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,11034
+3939,2019,Município,5003306,Coxim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,15597
+3939,2019,Município,5003454,Deodápolis - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10477
+3939,2019,Município,5003488,Dois Irmãos do Buriti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,21424
+3939,2019,Município,5003504,Douradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,96252
+3939,2019,Município,5003702,Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,337066
+3939,2019,Município,5003751,Eldorado - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,73961
+3939,2019,Município,5003801,Fátima do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7545
+3939,2019,Município,5003900,Figueirão - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5735
+3939,2019,Município,5004007,Glória de Dourados - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,8032
+3939,2019,Município,5004106,Guia Lopes da Laguna - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,14479
+3939,2019,Município,5004304,Iguatemi - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10512
+3939,2019,Município,5004403,Inocência - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7020
+3939,2019,Município,5004502,Itaporã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9984
+3939,2019,Município,5004601,Itaquiraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,29912
+3939,2019,Município,5004700,Ivinhema - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,266285
+3939,2019,Município,5004809,Japorã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5344
+3939,2019,Município,5004908,Jaraguari - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,22058
+3939,2019,Município,5005004,Jardim - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7244
+3939,2019,Município,5005103,Jateí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10725
+3939,2019,Município,5005152,Juti - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,3005
+3939,2019,Município,5005202,Ladário - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,1860
+3939,2019,Município,5005251,Laguna Carapã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,25726
+3939,2019,Município,5005400,Maracaju - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,50400
+3939,2019,Município,5005608,Miranda - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,13654
+3939,2019,Município,5005681,Mundo Novo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9407
+3939,2019,Município,5005707,Naviraí - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,57033
+3939,2019,Município,5005806,Nioaque - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,26704
+3939,2019,Município,5006002,Nova Alvorada do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7051
+3939,2019,Município,5006200,Nova Andradina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,8619
+3939,2019,Município,5006259,Novo Horizonte do Sul - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,10026
+3939,2019,Município,5006275,Paraíso das Águas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5006
+3939,2019,Município,5006309,Paranaíba - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,19371
+3939,2019,Município,5006358,Paranhos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9600
+3939,2019,Município,5006408,Pedro Gomes - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6720
+3939,2019,Município,5006606,Ponta Porã - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,28586
+3939,2019,Município,5006903,Porto Murtinho - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6463
+3939,2019,Município,5007109,Ribas do Rio Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,15637
+3939,2019,Município,5007208,Rio Brilhante - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,34935
+3939,2019,Município,5007307,Rio Negro - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,4566
+3939,2019,Município,5007406,Rio Verde de Mato Grosso - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5429
+3939,2019,Município,5007505,Rochedo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,7863
+3939,2019,Município,5007554,Santa Rita do Pardo - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6034
+3939,2019,Município,5007695,São Gabriel do Oeste - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,199982
+3939,2019,Município,5007703,Sete Quedas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,5846
+3939,2019,Município,5007802,Selvíria - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6686
+3939,2019,Município,5007901,Sidrolândia - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,324370
+3939,2019,Município,5007935,Sonora - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,4721
+3939,2019,Município,5007950,Tacuru - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6575
+3939,2019,Município,5007976,Taquarussu - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,2295
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,1231850
+3939,2019,Município,5008305,Três Lagoas - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,9044
+3939,2019,Município,5008404,Vicentina - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,32793,Galináceos - galinhas,6964
+3939,2019,Município,5008008,Terenos - MS,105,Efetivo dos rebanhos,Cabeças,Tipo de rebanho,2680,Codornas,66556

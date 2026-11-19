@@ -1,0 +1,641 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+74,1990,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1000
+74,1990,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5223
+74,1990,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3901
+74,1990,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2825
+74,1990,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3724
+74,1990,Município,5000906,Antônio João - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1130
+74,1990,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,11585
+74,1990,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5718
+74,1990,Município,5001243,Aral Moreira - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1544
+74,1990,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,9538
+74,1990,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4500
+74,1990,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4184
+74,1990,Município,5002100,Bela Vista - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3618
+74,1990,Município,5002159,Bodoquena - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2041
+74,1990,Município,5002209,Bonito - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6448
+74,1990,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2260
+74,1990,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4380
+74,1990,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,15076
+74,1990,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,27155
+74,1990,Município,5002803,Caracol - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2952
+74,1990,Município,5002902,Cassilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7075
+74,1990,Município,5002951,Chapadão do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2120
+74,1990,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3761
+74,1990,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,649
+74,1990,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,17217
+74,1990,Município,5003256,Costa Rica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5102
+74,1990,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5522
+74,1990,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4349
+74,1990,Município,5003488,Dois Irmãos do Buriti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4160
+74,1990,Município,5003504,Douradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,868
+74,1990,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,23980
+74,1990,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1633
+74,1990,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1584
+74,1990,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3357
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5979
+74,1990,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2794
+74,1990,Município,5004403,Inocência - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5711
+74,1990,Município,5004502,Itaporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2175
+74,1990,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1163
+74,1990,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5183
+74,1990,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7730
+74,1990,Município,5005004,Jardim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6124
+74,1990,Município,5005103,Jateí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,9300
+74,1990,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2800
+74,1990,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1982
+74,1990,Município,5005400,Maracaju - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4502
+74,1990,Município,5005608,Miranda - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3730
+74,1990,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3330
+74,1990,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,3045
+74,1990,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4864
+74,1990,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6171
+74,1990,Município,5006309,Paranaíba - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,27702
+74,1990,Município,5006358,Paranhos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1260
+74,1990,Município,5006408,Pedro Gomes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4362
+74,1990,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7160
+74,1990,Município,5006903,Porto Murtinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5170
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6824
+74,1990,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5698
+74,1990,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5083
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7751
+74,1990,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,6152
+74,1990,Município,5007554,Santa Rita do Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1900
+74,1990,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,5183
+74,1990,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1120
+74,1990,Município,5007802,Selvíria - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,4934
+74,1990,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,9844
+74,1990,Município,5007935,Sonora - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,725
+74,1990,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1370
+74,1990,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,1353
+74,1990,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,8504
+74,1990,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,7600
+74,1990,Município,5008404,Vicentina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2682,Leite,2274
+74,1990,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,27
+74,1990,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,221
+74,1990,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,45
+74,1990,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,54
+74,1990,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,25
+74,1990,Município,5000906,Antônio João - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,32
+74,1990,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,52
+74,1990,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,120
+74,1990,Município,5001243,Aral Moreira - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,95
+74,1990,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,53
+74,1990,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,47
+74,1990,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,18
+74,1990,Município,5002100,Bela Vista - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,52
+74,1990,Município,5002159,Bodoquena - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,35
+74,1990,Município,5002209,Bonito - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,58
+74,1990,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,43
+74,1990,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,71
+74,1990,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,106
+74,1990,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,365
+74,1990,Município,5002803,Caracol - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,22
+74,1990,Município,5002902,Cassilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,43
+74,1990,Município,5002951,Chapadão do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,33
+74,1990,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,44
+74,1990,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,65
+74,1990,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,76
+74,1990,Município,5003256,Costa Rica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,69
+74,1990,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,167
+74,1990,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,166
+74,1990,Município,5003488,Dois Irmãos do Buriti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,45
+74,1990,Município,5003504,Douradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,83
+74,1990,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,790
+74,1990,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,56
+74,1990,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,145
+74,1990,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,64
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,34
+74,1990,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,24
+74,1990,Município,5004403,Inocência - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,71
+74,1990,Município,5004502,Itaporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,141
+74,1990,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,31
+74,1990,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,79
+74,1990,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,107
+74,1990,Município,5005004,Jardim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,49
+74,1990,Município,5005103,Jateí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,27
+74,1990,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,44
+74,1990,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,15
+74,1990,Município,5005400,Maracaju - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,187
+74,1990,Município,5005608,Miranda - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,83
+74,1990,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,135
+74,1990,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,161
+74,1990,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,100
+74,1990,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,30
+74,1990,Município,5006309,Paranaíba - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,68
+74,1990,Município,5006358,Paranhos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,54
+74,1990,Município,5006408,Pedro Gomes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,62
+74,1990,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,165
+74,1990,Município,5006903,Porto Murtinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,24
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,30
+74,1990,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,183
+74,1990,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,23
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,100
+74,1990,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,45
+74,1990,Município,5007554,Santa Rita do Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,37
+74,1990,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,174
+74,1990,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,118
+74,1990,Município,5007802,Selvíria - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,29
+74,1990,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,104
+74,1990,Município,5007935,Sonora - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,16
+74,1990,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,32
+74,1990,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,16
+74,1990,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,11458
+74,1990,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,86
+74,1990,Município,5008404,Vicentina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2685,Ovos de galinha,212
+74,1990,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,0
+74,1990,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,0
+74,1990,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,1
+74,1990,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,3
+74,1990,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,0
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,0
+74,1990,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,0
+74,1990,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2686,Ovos de codorna,0
+74,1990,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3500
+74,1990,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3400
+74,1990,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4071
+74,1990,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3250
+74,1990,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,250
+74,1990,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2995
+74,1990,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4500
+74,1990,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2015
+74,1990,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,600
+74,1990,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1500
+74,1990,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,412
+74,1990,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,459
+74,1990,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,450
+74,1990,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,305
+74,1990,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1852
+74,1990,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2317
+74,1990,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2920
+74,1990,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,10000
+74,1990,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,6000
+74,1990,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4950
+74,1990,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1100
+74,1990,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,2400
+74,1990,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5000
+74,1990,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,135
+74,1990,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1000
+74,1990,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,162
+74,1990,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,410
+74,1990,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,28000
+74,1990,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,5000
+74,1990,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,119
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,4164
+74,1990,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,14200
+74,1990,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,906
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,824
+74,1990,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,50
+74,1990,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,412
+74,1990,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,130
+74,1990,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,158
+74,1990,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,160
+74,1990,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1850
+74,1990,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,1748
+74,1990,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2687,Mel de abelha,3000
+74,1990,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,17510
+74,1990,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,530
+74,1990,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,10753
+74,1990,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,1224
+74,1990,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,1418
+74,1990,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,4200
+74,1990,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,9014
+74,1990,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,4090
+74,1990,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,145370
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,4245
+74,1990,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,214628
+74,1990,Município,5005103,Jateí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,4250
+74,1990,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,2699
+74,1990,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,2029
+74,1990,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,11841
+74,1990,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,3530
+74,1990,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,30388
+74,1990,Município,5008404,Vicentina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,170
+74,1990,Município,5000203,Água Clara - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,292
+74,1990,Município,5000609,Amambai - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,19500
+74,1990,Município,5000708,Anastácio - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1963
+74,1990,Município,5000807,Anaurilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2681
+74,1990,Município,5000856,Angélica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,775
+74,1990,Município,5000906,Antônio João - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,8400
+74,1990,Município,5001003,Aparecida do Taboado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,885
+74,1990,Município,5001102,Aquidauana - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,8950
+74,1990,Município,5001243,Aral Moreira - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,3800
+74,1990,Município,5001508,Bandeirantes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,806
+74,1990,Município,5001904,Bataguassu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,675
+74,1990,Município,5002001,Batayporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1134
+74,1990,Município,5002100,Bela Vista - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,6700
+74,1990,Município,5002159,Bodoquena - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,3825
+74,1990,Município,5002209,Bonito - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,10775
+74,1990,Município,5002308,Brasilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,945
+74,1990,Município,5002407,Caarapó - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2304
+74,1990,Município,5002605,Camapuã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,932
+74,1990,Município,5002704,Campo Grande - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1788
+74,1990,Município,5002803,Caracol - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,4500
+74,1990,Município,5002902,Cassilândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,262
+74,1990,Município,5002951,Chapadão do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,345
+74,1990,Município,5003108,Corguinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,226
+74,1990,Município,5003157,Coronel Sapucaia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,5800
+74,1990,Município,5003207,Corumbá - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,7480
+74,1990,Município,5003256,Costa Rica - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,350
+74,1990,Município,5003306,Coxim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2004
+74,1990,Município,5003454,Deodápolis - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2550
+74,1990,Município,5003488,Dois Irmãos do Buriti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2238
+74,1990,Município,5003504,Douradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,570
+74,1990,Município,5003702,Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1404
+74,1990,Município,5003751,Eldorado - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,983
+74,1990,Município,5003801,Fátima do Sul - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,893
+74,1990,Município,5004007,Glória de Dourados - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1226
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,5300
+74,1990,Município,5004304,Iguatemi - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,7216
+74,1990,Município,5004403,Inocência - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,960
+74,1990,Município,5004502,Itaporã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1030
+74,1990,Município,5004601,Itaquiraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,808
+74,1990,Município,5004700,Ivinhema - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1655
+74,1990,Município,5004908,Jaraguari - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,416
+74,1990,Município,5005004,Jardim - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,7850
+74,1990,Município,5005103,Jateí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,3024
+74,1990,Município,5005152,Juti - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1527
+74,1990,Município,5005202,Ladário - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,728
+74,1990,Município,5005400,Maracaju - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,662
+74,1990,Município,5005608,Miranda - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2725
+74,1990,Município,5005681,Mundo Novo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1620
+74,1990,Município,5005707,Naviraí - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,3340
+74,1990,Município,5005806,Nioaque - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,3525
+74,1990,Município,5006200,Nova Andradina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2021
+74,1990,Município,5006309,Paranaíba - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,570
+74,1990,Município,5006358,Paranhos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,4050
+74,1990,Município,5006408,Pedro Gomes - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,890
+74,1990,Município,5006606,Ponta Porã - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,11950
+74,1990,Município,5006903,Porto Murtinho - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,17175
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,256
+74,1990,Município,5007208,Rio Brilhante - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1330
+74,1990,Município,5007307,Rio Negro - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,192
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,4917
+74,1990,Município,5007505,Rochedo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,130
+74,1990,Município,5007554,Santa Rita do Pardo - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,780
+74,1990,Município,5007695,São Gabriel do Oeste - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,330
+74,1990,Município,5007703,Sete Quedas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2400
+74,1990,Município,5007802,Selvíria - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,510
+74,1990,Município,5007901,Sidrolândia - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2401
+74,1990,Município,5007935,Sonora - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,165
+74,1990,Município,5007950,Tacuru - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2870
+74,1990,Município,5007976,Taquarussu - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,767
+74,1990,Município,5008008,Terenos - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,503
+74,1990,Município,5008305,Três Lagoas - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,2775
+74,1990,Município,5008404,Vicentina - MS,106,Produção de origem animal,,Tipo de produto de origem animal,2684,Lã,1069
+74,1990,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,18800
+74,1990,Município,5000609,Amambai - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,223088
+74,1990,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,39781
+74,1990,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,56226
+74,1990,Município,5000856,Angélica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,72470
+74,1990,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,52957
+74,1990,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,196251
+74,1990,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,59398
+74,1990,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,82121
+74,1990,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,265612
+74,1990,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,77591
+74,1990,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,83271
+74,1990,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,147607
+74,1990,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,21018
+74,1990,Município,5002209,Bonito - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,65601
+74,1990,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,39136
+74,1990,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,64690
+74,1990,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,188958
+74,1990,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,781470
+74,1990,Município,5002803,Caracol - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,148900
+74,1990,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,120040
+74,1990,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,36094
+74,1990,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,103759
+74,1990,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,32725
+74,1990,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,296314
+74,1990,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,64736
+74,1990,Município,5003306,Coxim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,72546
+74,1990,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,69681
+74,1990,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,42274
+74,1990,Município,5003504,Douradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,16382
+74,1990,Município,5003702,Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,371784
+74,1990,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,34264
+74,1990,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,30378
+74,1990,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,76676
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,60907
+74,1990,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,52218
+74,1990,Município,5004403,Inocência - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,96692
+74,1990,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,37419
+74,1990,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,23269
+74,1990,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,135741
+74,1990,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,220590
+74,1990,Município,5005004,Jardim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,62181
+74,1990,Município,5005103,Jateí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,128393
+74,1990,Município,5005152,Juti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,40985
+74,1990,Município,5005202,Ladário - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,34171
+74,1990,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,70440
+74,1990,Município,5005608,Miranda - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,38489
+74,1990,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,68173
+74,1990,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,70889
+74,1990,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,50292
+74,1990,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,119230
+74,1990,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,466813
+74,1990,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,65879
+74,1990,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,55438
+74,1990,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,331060
+74,1990,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,52674
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,200714
+74,1990,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,90058
+74,1990,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,146120
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,98510
+74,1990,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,174629
+74,1990,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,32719
+74,1990,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,68270
+74,1990,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,62014
+74,1990,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,83798
+74,1990,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,283155
+74,1990,Município,5007935,Sonora - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,9338
+74,1990,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,70228
+74,1990,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,27073
+74,1990,Município,5008008,Terenos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,671646
+74,1990,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,138384
+74,1990,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,0,Total,42623
+74,1990,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,16500
+74,1990,Município,5000609,Amambai - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,208920
+74,1990,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,39009
+74,1990,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,52265
+74,1990,Município,5000856,Angélica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,68894
+74,1990,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,50850
+74,1990,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,194272
+74,1990,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,57183
+74,1990,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,77200
+74,1990,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,262300
+74,1990,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,74250
+74,1990,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,81596
+74,1990,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,144720
+74,1990,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,20412
+74,1990,Município,5002209,Bonito - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,64476
+74,1990,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,37290
+74,1990,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,59398
+74,1990,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,186339
+74,1990,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,767129
+74,1990,Município,5002803,Caracol - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,147600
+74,1990,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,118648
+74,1990,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,34980
+74,1990,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,101912
+74,1990,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,29183
+74,1990,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,292689
+74,1990,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,63065
+74,1990,Município,5003306,Coxim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,68250
+74,1990,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,58974
+74,1990,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,41601
+74,1990,Município,5003504,Douradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,11770
+74,1990,Município,5003702,Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,325169
+74,1990,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,30369
+74,1990,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,21479
+74,1990,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,45524
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,59787
+74,1990,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,50294
+74,1990,Município,5004403,Inocência - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,94226
+74,1990,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,29487
+74,1990,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,21171
+74,1990,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,95878
+74,1990,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,216449
+74,1990,Município,5005004,Jardim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,61236
+74,1990,Município,5005103,Jateí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,126108
+74,1990,Município,5005152,Juti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,37968
+74,1990,Município,5005202,Ladário - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,33699
+74,1990,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,61043
+74,1990,Município,5005608,Miranda - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,37296
+74,1990,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,61272
+74,1990,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,56033
+74,1990,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,48636
+74,1990,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,114161
+74,1990,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,464556
+74,1990,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,63000
+74,1990,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,53916
+74,1990,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,322200
+74,1990,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,51696
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,197906
+74,1990,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,77265
+74,1990,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,144858
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,95803
+74,1990,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,172870
+74,1990,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,31350
+74,1990,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,64061
+74,1990,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,56000
+74,1990,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,82735
+74,1990,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,278580
+74,1990,Município,5007935,Sonora - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,8957
+74,1990,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,68500
+74,1990,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,25021
+74,1990,Município,5008008,Terenos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,245775
+74,1990,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,129200
+74,1990,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2682,Leite,30840
+74,1990,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,795
+74,1990,Município,5000609,Amambai - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,9926
+74,1990,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,628
+74,1990,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,3016
+74,1990,Município,5000856,Angélica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1386
+74,1990,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1771
+74,1990,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1560
+74,1990,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1680
+74,1990,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,4750
+74,1990,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1959
+74,1990,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1395
+74,1990,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,989
+74,1990,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2585
+74,1990,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,453
+74,1990,Município,5002209,Bonito - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,694
+74,1990,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1287
+74,1990,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,3977
+74,1990,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2535
+74,1990,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,13682
+74,1990,Município,5002803,Caracol - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1120
+74,1990,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1298
+74,1990,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,990
+74,1990,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1615
+74,1990,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,3225
+74,1990,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2286
+74,1990,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1652
+74,1990,Município,5003306,Coxim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,3994
+74,1990,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,8277
+74,1990,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,583
+74,1990,Município,5003504,Douradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,4566
+74,1990,Município,5003702,Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,44003
+74,1990,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2751
+74,1990,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,8092
+74,1990,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,3213
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,439
+74,1990,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1302
+74,1990,Município,5004403,Inocência - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2120
+74,1990,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,7850
+74,1990,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1602
+74,1990,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,4329
+74,1990,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,3977
+74,1990,Município,5005004,Jardim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,631
+74,1990,Município,5005103,Jateí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1350
+74,1990,Município,5005152,Juti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2205
+74,1990,Município,5005202,Ladário - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,352
+74,1990,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,9344
+74,1990,Município,5005608,Miranda - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1084
+74,1990,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,6744
+74,1990,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,9023
+74,1990,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1305
+74,1990,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1654
+74,1990,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2052
+74,1990,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2705
+74,1990,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1475
+74,1990,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,8250
+74,1990,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,291
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1144
+74,1990,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,9137
+74,1990,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,864
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2376
+74,1990,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1705
+74,1990,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1096
+74,1990,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,4157
+74,1990,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,5900
+74,1990,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,879
+74,1990,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,3861
+74,1990,Município,5007935,Sonora - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,372
+74,1990,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,1600
+74,1990,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,886
+74,1990,Município,5008008,Terenos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,425075
+74,1990,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,2565
+74,1990,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2685,Ovos de galinha,11666
+74,1990,Município,5000609,Amambai - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,2
+74,1990,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,12
+74,1990,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,62
+74,1990,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,212
+74,1990,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,1
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,4
+74,1990,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,8
+74,1990,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2686,Ovos de codorna,3
+74,1990,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,1400
+74,1990,Município,5000609,Amambai - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,306
+74,1990,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,798
+74,1990,Município,5000856,Angélica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,634
+74,1990,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,100
+74,1990,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,1135
+74,1990,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,1710
+74,1990,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,393
+74,1990,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,228
+74,1990,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,375
+74,1990,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,35
+74,1990,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,175
+74,1990,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,171
+74,1990,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,27
+74,1990,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,741
+74,1990,Município,5003306,Coxim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,196
+74,1990,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,730
+74,1990,Município,5003702,Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,2500
+74,1990,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,1092
+74,1990,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,1238
+74,1990,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,213
+74,1990,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,456
+74,1990,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,975
+74,1990,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,52
+74,1990,Município,5005152,Juti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,250
+74,1990,Município,5005202,Ladário - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,65
+74,1990,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,82
+74,1990,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,5600
+74,1990,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,980
+74,1990,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,11
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,1591
+74,1990,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,3550
+74,1990,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,346
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,70
+74,1990,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,19
+74,1990,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,35
+74,1990,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,10
+74,1990,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,60
+74,1990,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,13
+74,1990,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,363
+74,1990,Município,5008008,Terenos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,661
+74,1990,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2687,Mel de abelha,1200
+74,1990,Município,5000609,Amambai - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,3056
+74,1990,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,65
+74,1990,Município,5000856,Angélica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,1514
+74,1990,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,177
+74,1990,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,231
+74,1990,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,756
+74,1990,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,1496
+74,1990,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,736
+74,1990,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,26603
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,469
+74,1990,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,34469
+74,1990,Município,5005103,Jateí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,693
+74,1990,Município,5005152,Juti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,440
+74,1990,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,210
+74,1990,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,2112
+74,1990,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,762
+74,1990,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,4420
+74,1990,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda,31
+74,1990,Município,5000203,Água Clara - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,105
+74,1990,Município,5000609,Amambai - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,878
+74,1990,Município,5000708,Anastácio - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,79
+74,1990,Município,5000807,Anaurilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,147
+74,1990,Município,5000856,Angélica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,42
+74,1990,Município,5000906,Antônio João - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,336
+74,1990,Município,5001003,Aparecida do Taboado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,319
+74,1990,Município,5001102,Aquidauana - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,358
+74,1990,Município,5001243,Aral Moreira - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,171
+74,1990,Município,5001508,Bandeirantes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,218
+74,1990,Município,5001904,Bataguassu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,236
+74,1990,Município,5002001,Batayporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,62
+74,1990,Município,5002100,Bela Vista - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,302
+74,1990,Município,5002159,Bodoquena - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,153
+74,1990,Município,5002209,Bonito - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,431
+74,1990,Município,5002308,Brasilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,331
+74,1990,Município,5002407,Caarapó - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,184
+74,1990,Município,5002605,Camapuã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,49
+74,1990,Município,5002704,Campo Grande - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,484
+74,1990,Município,5002803,Caracol - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,180
+74,1990,Município,5002902,Cassilândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,94
+74,1990,Município,5002951,Chapadão do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,124
+74,1990,Município,5003108,Corguinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,61
+74,1990,Município,5003157,Coronel Sapucaia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,290
+74,1990,Município,5003207,Corumbá - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,598
+74,1990,Município,5003256,Costa Rica - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,19
+74,1990,Município,5003306,Coxim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,106
+74,1990,Município,5003454,Deodápolis - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,204
+74,1990,Município,5003488,Dois Irmãos do Buriti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,90
+74,1990,Município,5003504,Douradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,46
+74,1990,Município,5003702,Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,112
+74,1990,Município,5003751,Eldorado - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,52
+74,1990,Município,5003801,Fátima do Sul - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,71
+74,1990,Município,5004007,Glória de Dourados - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,98
+74,1990,Município,5004106,Guia Lopes da Laguna - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,212
+74,1990,Município,5004304,Iguatemi - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,397
+74,1990,Município,5004403,Inocência - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,346
+74,1990,Município,5004502,Itaporã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,82
+74,1990,Município,5004601,Itaquiraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,40
+74,1990,Município,5004700,Ivinhema - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,90
+74,1990,Município,5004908,Jaraguari - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,112
+74,1990,Município,5005004,Jardim - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,314
+74,1990,Município,5005103,Jateí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,242
+74,1990,Município,5005152,Juti - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,122
+74,1990,Município,5005202,Ladário - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,55
+74,1990,Município,5005400,Maracaju - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,53
+74,1990,Município,5005608,Miranda - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,109
+74,1990,Município,5005681,Mundo Novo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,75
+74,1990,Município,5005707,Naviraí - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,171
+74,1990,Município,5005806,Nioaque - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,141
+74,1990,Município,5006200,Nova Andradina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,111
+74,1990,Município,5006309,Paranaíba - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,205
+74,1990,Município,5006358,Paranhos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,174
+74,1990,Município,5006408,Pedro Gomes - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,47
+74,1990,Município,5006606,Ponta Porã - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,598
+74,1990,Município,5006903,Porto Murtinho - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,687
+74,1990,Município,5007109,Ribas do Rio Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,69
+74,1990,Município,5007208,Rio Brilhante - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,106
+74,1990,Município,5007307,Rio Negro - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,52
+74,1990,Município,5007406,Rio Verde de Mato Grosso - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,261
+74,1990,Município,5007505,Rochedo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,35
+74,1990,Município,5007554,Santa Rita do Pardo - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,273
+74,1990,Município,5007695,São Gabriel do Oeste - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,17
+74,1990,Município,5007703,Sete Quedas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,96
+74,1990,Município,5007802,Selvíria - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,184
+74,1990,Município,5007901,Sidrolândia - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,651
+74,1990,Município,5007935,Sonora - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,9
+74,1990,Município,5007950,Tacuru - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,115
+74,1990,Município,5007976,Taquarussu - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,41
+74,1990,Município,5008008,Terenos - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,135
+74,1990,Município,5008305,Três Lagoas - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,999
+74,1990,Município,5008404,Vicentina - MS,215,Valor da produção,Mil Cruzeiros,Tipo de produto de origem animal,2684,Lã,86
