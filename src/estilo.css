@@ -24,23 +24,51 @@
 
 body { font-family: var(--sans-serif); }
 
-#observablehq-header { padding: 0; }
-.gov-faixa {
-  display: flex; align-items: center;
-  padding: 10px 0 12px;
-  background: #fff;
-  border-bottom: 4px solid var(--ms-verde);
+/* Cabeçalho no formato do site oficial (semadesc.ms.gov.br): barra cinza de links + barra azul com a assinatura */
+:root { --topo: 112px; }
+#observablehq-header {
+  left: 0; right: 0; top: 0; height: auto; margin: 0; padding: 0;
+  display: block; border: 0; z-index: 4; background: none; font: inherit;
 }
-.gov-faixa a { display: inline-flex; }
-.gov-faixa__logo { height: 56px; width: auto; display: block; }
-@media (max-width: 640px) { .gov-faixa__logo { height: 42px; } }
+#observablehq-header ~ #observablehq-main { margin-top: calc(var(--topo) - 0.5rem); }
+#observablehq-sidebar { top: var(--topo); }
+#observablehq-sidebar-toggle { top: var(--topo); height: calc(100% - var(--topo)); }
+:root:has(#observablehq-header) { scroll-padding-top: calc(var(--topo) + 1rem); }
+.gov-wrap { max-width: 1440px; margin: 0 auto; padding: 0 2rem; display: flex; align-items: center; }
+.gov-barra { height: 30px; background: var(--ms-cinza-claro); }
+.gov-barra .gov-wrap { height: 100%; justify-content: flex-end; gap: 22px; }
+.gov-barra a { color: var(--ms-azul); font-size: 12.5px; text-transform: uppercase; letter-spacing: .03em; text-decoration: none; }
+.gov-barra a:hover { text-decoration: underline; }
+.gov-topo { height: 82px; background: var(--ms-azul); color: #fff; }
+.gov-topo .gov-wrap { height: 100%; gap: 18px; }
+.gov-logo { display: inline-flex; }
+.gov-logo img { height: 60px; width: auto; display: block; }
+.gov-divisor { width: 1px; align-self: stretch; margin: 14px 0; background: rgba(255,255,255,.55); }
+.gov-titulo { display: flex; flex-direction: column; line-height: 1.25; }
+.gov-titulo strong { font-size: 19px; font-weight: 700; }
+.gov-titulo span { font-size: 13px; opacity: .9; }
+@media (max-width: 760px) {
+  :root { --topo: 98px; }
+  .gov-topo { height: 68px; }
+  .gov-wrap { padding: 0 1rem; }
+  .gov-logo img { height: 44px; }
+  .gov-titulo span { display: none; }
+  .gov-titulo strong { font-size: 15px; }
+}
+@media (max-width: 460px) { .gov-divisor, .gov-titulo { display: none; } }
 
 #observablehq-sidebar { border-right: 1px solid #e3e3e3; }
 #observablehq-sidebar > ol > li > a, #observablehq-sidebar a { font-weight: 500; }
 #observablehq-sidebar .observablehq-link-active a { color: var(--ms-azul); }
 
-h1 { color: var(--ms-azul); font-weight: 700; max-width: none; }
+/* Títulos com o marcador verde usado no site oficial */
+h1 { color: var(--ms-preto); font-weight: 700; max-width: none; }
+h1::before, #observablehq-main > h2::before {
+  content: ""; display: inline-block; width: .42em; height: .42em; border-radius: 50%;
+  background: var(--ms-verde); margin-right: .4em; vertical-align: .14em;
+}
 h2 { color: var(--ms-preto); font-weight: 700; margin-top: 2rem; }
+.card { background: #fff; border: 1px solid #e3e3e3; border-left: 5px solid var(--ms-verde); border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
 .fonte { color: var(--ms-cinza); font-size: 13px; }
 .nota { color: var(--ms-cinza); font-size: 14px; max-width: 900px; }
 
@@ -50,18 +78,19 @@ h2 { color: var(--ms-preto); font-weight: 700; margin-top: 2rem; }
 .botoes { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 4px; }
 .botoes button {
   font: inherit; font-size: 13.5px; font-weight: 600; cursor: pointer;
-  color: var(--ms-azul); background: #fff; border: 1px solid var(--ms-azul);
-  border-radius: 999px; padding: 5px 14px;
+  color: #fff; background: var(--ms-verde-escuro); border: 1px solid var(--ms-verde-escuro);
+  border-radius: 999px; padding: 6px 16px;
 }
-.botoes button:hover { background: #e8f0fa; }
+.botoes button:hover { background: var(--ms-verde); border-color: var(--ms-verde); }
 
 .temas { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 1rem; }
 .temas a {
   display: block; padding: 16px 18px; border: 1px solid #e3e3e3; border-left: 5px solid var(--ms-verde);
-  border-radius: 8px; text-decoration: none; color: inherit; background: #fff;
+  border-radius: 4px; text-decoration: none; color: inherit; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.06);
 }
 .temas a:hover { border-left-color: var(--ms-azul); }
-.temas strong { display: block; color: var(--ms-azul); font-size: 16px; }
+.temas strong { display: block; color: var(--ms-preto); font-size: 16px; }
+.temas a:hover strong { color: var(--ms-azul); }
 .temas span { color: var(--ms-cinza); font-size: 14px; }
 
 .card h2 { margin-top: 0; }
