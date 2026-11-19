@@ -109,3 +109,9 @@ export function botao(texto, acao) {
 }
 
 export const slug = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^A-Za-z0-9]+/g, "_").replace(/^_|_$/g, "").toLowerCase();
+
+// Consulta ao DuckDB devolvendo objetos simples (as linhas do Arrow viram objetos JS)
+export async function consulta(db, sql, params) {
+  const res = await db.query(sql, params);
+  return Array.from(res, (r) => (r && typeof r.toJSON === "function" ? r.toJSON() : {...r}));
+}

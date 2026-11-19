@@ -7,7 +7,7 @@ title: Safra de grãos e cana (CONAB)
 <p class="nota">Estimativas da CONAB para Mato Grosso do Sul: a série histórica traz o resultado de cada safra; os levantamentos trazem cada estimativa mensal divulgada durante a safra. Dados como publicados nos arquivos da CONAB, sem tratamento.</p>
 
 ```js
-import {baixarCSV, botao, fmt, slug} from "./components/util.js";
+import {baixarCSV, botao, fmt, slug, consulta} from "./components/util.js";
 const db = await DuckDBClient.of({
   gs: FileAttachment("data/conab_serie_historica_graos.parquet"),
   gl: FileAttachment("data/conab_levantamento_graos.parquet"),
@@ -36,9 +36,9 @@ const conjunto = Generators.input(inConj);
 
 ```js
 const T = conjunto.t;
-const colunas = (await db.query(`describe ${T}`)).map((c) => c.column_name);
+const colunas = (await consulta(db, `describe ${T}`)).map((c) => c.column_name);
 const colSafra = colunas.includes("dsc_safra_previsao") ? "dsc_safra_previsao" : "safra";
-const produtos = (await db.query(`select distinct produto from ${T} order by produto`)).map((d) => d.produto);
+const produtos = (await consulta(db, `select distinct produto from ${T} order by produto`)).map((d) => d.produto);
 const inProd = Inputs.select(produtos, {label: "Produto", value: produtos.includes("SOJA") ? "SOJA" : produtos[0]});
 const produto = Generators.input(inProd);
 const numericas = colunas.filter((c) => c.includes("_mil_") || c.includes("_kg_"));
@@ -47,14 +47,14 @@ const medida = Generators.input(inMed);
 ```
 
 ```js
-const safras = (await db.query(`select distinct ${colSafra} as s from ${T} where produto = ? order by s`, [produto])).map((d) => d.s);
+const safras = (await consulta(db, `select distinct ${colSafra} as s from ${T} where produto = ? order by s`, [produto])).map((d) => d.s);
 const inSafra = Inputs.select(safras, {label: "Safra", value: safras.includes("UNICA") ? "UNICA" : safras[0]});
 const safra = Generators.input(inSafra);
 ```
 
 ```js
 const anos = conjunto.tipo === "levantamento"
-  ? (await db.query(`select distinct ano_agricola from ${T} where produto = ? and ${colSafra} = ? order by ano_agricola desc`, [produto, safra])).map((d) => d.ano_agricola)
+  ? (await consulta(db, `select distinct ano_agricola from ${T} where produto = ? and ${colSafra} = ? order by ano_agricola desc`, [produto, safra])).map((d) => d.ano_agricola)
   : [];
 const inAno = Inputs.select(anos, {label: "Ano agrícola"});
 const anoAgricola = conjunto.tipo === "levantamento" ? Generators.input(inAno) : null;
@@ -64,8 +64,8 @@ const anoAgricola = conjunto.tipo === "levantamento" ? Generators.input(inAno) :
 
 ```js
 const linhas = conjunto.tipo === "serie"
-  ? [...await db.query(`select * from ${T} where produto = ? and ${colSafra} = ? order by ano_agricola`, [produto, safra])]
-  : [...await db.query(`select * from ${T} where produto = ? and ${colSafra} = ? and ano_agricola = ? order by id_levantamento`, [produto, safra, anoAgricola])];
+  ? [...await consulta(db, `select * from ${T} where produto = ? and ${colSafra} = ? order by ano_agricola`, [produto, safra])]
+  : [...await consulta(db, `select * from ${T} where produto = ? and ${colSafra} = ? and ano_agricola = ? order by id_levantamento`, [produto, safra, anoAgricola])];
 const eixoX = conjunto.tipo === "serie" ? "ano_agricola" : "dsc_levantamento";
 const colunasCSV = colunas.map((c) => ({campo: c, titulo: ROTULOS[c] ?? c}));
 const nomeBase = `conab_${slug(conjunto.nome)}_${slug(produto)}_${slug(safra)}${anoAgricola ? "_" + slug(anoAgricola) : ""}`;
@@ -88,7 +88,7 @@ const nomeBase = `conab_${slug(conjunto.nome)}_${slug(produto)}_${slug(safra)}${
 <div class="card">
   <h2>Tabela (${linhas.length} linhas)</h2>
   ${Inputs.table(linhas, {columns: colunas, header: ROTULOS, format: Object.fromEntries(numericas.map((c) => [c, (v) => fmt(v)])), rows: 16, layout: "auto"})}
-  <div class="botoes">${botao("Baixar esta tabela (CSV)", () => baixarCSV(linhas, colunasCSV, `${nomeBase}.csv`))}${botao("Baixar o conjunto completo (CSV)", async () => baixarCSV([...await db.query(`select * from ${T} order by produto, ano_agricola`)], colunasCSV, `conab_${slug(conjunto.nome)}_completo.csv`))}</div>
+  <div class="botoes">${botao("Baixar esta tabela (CSV)", () => baixarCSV(linhas, colunasCSV, `${nomeBase}.csv`))}${botao("Baixar o conjunto completo (CSV)", async () => baixarCSV([...await consulta(db, `select * from ${T} order by produto, ano_agricola`)], colunasCSV, `conab_${slug(conjunto.nome)}_completo.csv`))}</div>
 </div>
 
 <p class="fonte">Fonte: CONAB, Portal de Informações Agropecuárias (arquivos de dados de safra), filtrados para MS. Área em mil hectares, produção em mil toneladas, produtividade em toneladas por hectare.</p>
