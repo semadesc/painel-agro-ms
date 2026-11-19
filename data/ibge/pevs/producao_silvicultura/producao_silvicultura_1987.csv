@@ -1,0 +1,175 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,349
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,2053
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,47
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,8624
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,33098
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,193200
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,7900
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,418233
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,31803
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,113689
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,50
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,278456
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,1587
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,46586
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,76620
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,50
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,201836
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,1587
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,46586
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,12
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),12
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,0,Total,10904
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,0,Total,15456
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,0,Total,3255
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,0,Total,344770
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,0,Total,12834
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,0,Total,95632
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,1607
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,7186
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,92
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,39669
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3456,1.2 - Lenha,9267
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3456,1.2 - Lenha,15456
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3456,1.2 - Lenha,3255
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3456,1.2 - Lenha,23480
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3456,1.2 - Lenha,11890
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3456,1.2 - Lenha,26148
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,30
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,314056
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,852
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,29815
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,81945
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,30
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,232111
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,852
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,29815
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3460,2 - Outros produtos,48
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),48
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzados,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,14.74
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,2.08
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,0.72
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,41.48
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,84.99
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,6.81
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,92.64
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,27.34
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,0.28
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,91.09
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,6.64
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,31.18
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,23.77
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,0.28
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,67.32
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,6.64
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,31.18
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,0.01
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),0.01
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1987,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1987,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-

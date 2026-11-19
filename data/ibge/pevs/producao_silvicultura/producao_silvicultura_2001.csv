@@ -1,0 +1,523 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,6323
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,10000
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,219
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,10
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,266
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,98614
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,3325
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,11773
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,354
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,8350
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,2379
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,42515
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,45105
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,34080
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,3800
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,35890
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,242333
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,15063
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,78078
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,290225
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,506269
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,45
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,21648
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,5000
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,350
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,5000
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,4080
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,6260
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,273140
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,1702
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,1350
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,485112
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,375107
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,506269
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,45
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,21648
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,5000
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,350
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,5000
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,4080
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,6260
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,273140
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,1702
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,1350
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,110005
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,293
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),293
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5000807,Anaurilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002001,Batayporã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002407,Caarapó - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002704,Campo Grande - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5003702,Dourados - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004304,Iguatemi - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004601,Itaquiraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004700,Ivinhema - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5005707,Naviraí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5006200,Nova Andradina - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5006606,Ponta Porã - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,8346
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,3
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,5
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,384
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,144
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,1000
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,553
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,20
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,1
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,276
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,568
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,49
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,265
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,279
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,15927
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,162
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,652
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,0,Total,7092
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,506
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,1000
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,20
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,1
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,27
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,9861
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,299
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,94
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,5
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,42
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,19
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,553
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,226
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,443
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,49
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,179
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,1696
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,136
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,625
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,2032
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,7746
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,3
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,342
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,125
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,23
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,125
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,265
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,100
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,4370
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,26
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,21
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,4761
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,3001
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,7746
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,3
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,342
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,125
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,23
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,125
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,265
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,100
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,4370
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,26
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,21
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,1760
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,6
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),6
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5000807,Anaurilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002001,Batayporã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002407,Caarapó - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002704,Campo Grande - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5003702,Dourados - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004304,Iguatemi - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004601,Itaquiraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004700,Ivinhema - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5005707,Naviraí - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5006200,Nova Andradina - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5006606,Ponta Porã - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,6.06
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,100.00
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,100.00
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,100.00
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,9.78
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,61.91
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,4.22
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,1.13
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,10.94
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,13.19
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,81.88
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,77.99
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,64.16
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,10.65
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,83.95
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,95.86
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,28.65
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,92.81
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,100.00
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,89.06
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,86.81
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,8.33
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,22.01
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,100.00
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,35.84
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,27.44
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,16.05
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,3.22
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,67.13
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,42.32
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,92.81
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,100.00
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,89.06
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,86.81
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,8.33
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,22.01
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,100.00
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,35.84
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,27.44
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,16.05
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,3.22
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,24.82
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,0.92
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),0.92
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,2001,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5000807,Anaurilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002001,Batayporã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002407,Caarapó - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5002704,Campo Grande - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5003702,Dourados - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004304,Iguatemi - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004601,Itaquiraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5004700,Ivinhema - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5005707,Naviraí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5006200,Nova Andradina - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5006606,Ponta Porã - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007554,Santa Rita do Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,2001,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-

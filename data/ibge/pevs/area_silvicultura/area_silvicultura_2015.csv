@@ -1,0 +1,593 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+5930,2015,Município,5000203,Água Clara - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,120400
+5930,2015,Município,5000252,Alcinópolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1430
+5930,2015,Município,5000609,Amambai - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,4000
+5930,2015,Município,5000708,Anastácio - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,2500
+5930,2015,Município,5000807,Anaurilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1560
+5930,2015,Município,5000856,Angélica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,260
+5930,2015,Município,5000906,Antônio João - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,435
+5930,2015,Município,5001003,Aparecida do Taboado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,18200
+5930,2015,Município,5001102,Aquidauana - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,4000
+5930,2015,Município,5001243,Aral Moreira - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,840
+5930,2015,Município,5001508,Bandeirantes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,2700
+5930,2015,Município,5001904,Bataguassu - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,2000
+5930,2015,Município,5002001,Batayporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,345
+5930,2015,Município,5002100,Bela Vista - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1250
+5930,2015,Município,5002209,Bonito - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,147
+5930,2015,Município,5002308,Brasilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,60000
+5930,2015,Município,5002407,Caarapó - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,370
+5930,2015,Município,5002605,Camapuã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,410
+5930,2015,Município,5002704,Campo Grande - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,24500
+5930,2015,Município,5002803,Caracol - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,100
+5930,2015,Município,5002902,Cassilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,2500
+5930,2015,Município,5002951,Chapadão do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,3200
+5930,2015,Município,5003108,Corguinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,300
+5930,2015,Município,5003157,Coronel Sapucaia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1000
+5930,2015,Município,5003207,Corumbá - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,66
+5930,2015,Município,5003256,Costa Rica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,2500
+5930,2015,Município,5003306,Coxim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,2220
+5930,2015,Município,5003454,Deodápolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,150
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,15000
+5930,2015,Município,5003504,Douradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,70
+5930,2015,Município,5003702,Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,6200
+5930,2015,Município,5003751,Eldorado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,470
+5930,2015,Município,5003801,Fátima do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,140
+5930,2015,Município,5003900,Figueirão - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,400
+5930,2015,Município,5004007,Glória de Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,300
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,117
+5930,2015,Município,5004304,Iguatemi - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,2900
+5930,2015,Município,5004403,Inocência - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,43500
+5930,2015,Município,5004502,Itaporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,350
+5930,2015,Município,5004601,Itaquiraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,400
+5930,2015,Município,5004700,Ivinhema - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1800
+5930,2015,Município,5004809,Japorã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,75
+5930,2015,Município,5004908,Jaraguari - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,15000
+5930,2015,Município,5005004,Jardim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,180
+5930,2015,Município,5005103,Jateí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,670
+5930,2015,Município,5005152,Juti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,700
+5930,2015,Município,5005251,Laguna Carapã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1058
+5930,2015,Município,5005400,Maracaju - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,730
+5930,2015,Município,5005681,Mundo Novo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,40
+5930,2015,Município,5005707,Naviraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,840
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,3680
+5930,2015,Município,5006200,Nova Andradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,13386
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,875
+5930,2015,Município,5006275,Paraíso das Águas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,6350
+5930,2015,Município,5006309,Paranaíba - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,7048
+5930,2015,Município,5006358,Paranhos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,500
+5930,2015,Município,5006408,Pedro Gomes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,950
+5930,2015,Município,5006606,Ponta Porã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,9000
+5930,2015,Município,5006903,Porto Murtinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1100
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,200800
+5930,2015,Município,5007208,Rio Brilhante - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,300
+5930,2015,Município,5007307,Rio Negro - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,150
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,878
+5930,2015,Município,5007505,Rochedo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,500
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,21480
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,974
+5930,2015,Município,5007703,Sete Quedas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,150
+5930,2015,Município,5007802,Selvíria - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,74350
+5930,2015,Município,5007901,Sidrolândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,900
+5930,2015,Município,5007935,Sonora - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,13980
+5930,2015,Município,5007950,Tacuru - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1500
+5930,2015,Município,5008008,Terenos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,1730
+5930,2015,Município,5008305,Três Lagoas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,217700
+5930,2015,Município,5008404,Vicentina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,0,Total,100
+5930,2015,Município,5000203,Água Clara - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,120000
+5930,2015,Município,5000252,Alcinópolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1430
+5930,2015,Município,5000609,Amambai - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,4000
+5930,2015,Município,5000708,Anastácio - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,2500
+5930,2015,Município,5000807,Anaurilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1560
+5930,2015,Município,5000856,Angélica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,260
+5930,2015,Município,5000906,Antônio João - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,435
+5930,2015,Município,5001003,Aparecida do Taboado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,18200
+5930,2015,Município,5001102,Aquidauana - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,4000
+5930,2015,Município,5001243,Aral Moreira - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,840
+5930,2015,Município,5001508,Bandeirantes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,2700
+5930,2015,Município,5001904,Bataguassu - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,2000
+5930,2015,Município,5002001,Batayporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,345
+5930,2015,Município,5002100,Bela Vista - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1250
+5930,2015,Município,5002209,Bonito - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,147
+5930,2015,Município,5002308,Brasilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,60000
+5930,2015,Município,5002407,Caarapó - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,370
+5930,2015,Município,5002605,Camapuã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,410
+5930,2015,Município,5002704,Campo Grande - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,24500
+5930,2015,Município,5002803,Caracol - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,100
+5930,2015,Município,5002902,Cassilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,2500
+5930,2015,Município,5002951,Chapadão do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,3200
+5930,2015,Município,5003108,Corguinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,300
+5930,2015,Município,5003157,Coronel Sapucaia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1000
+5930,2015,Município,5003207,Corumbá - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,66
+5930,2015,Município,5003256,Costa Rica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,2500
+5930,2015,Município,5003306,Coxim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,2220
+5930,2015,Município,5003454,Deodápolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,150
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,15000
+5930,2015,Município,5003504,Douradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,70
+5930,2015,Município,5003702,Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,6200
+5930,2015,Município,5003751,Eldorado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,470
+5930,2015,Município,5003801,Fátima do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,140
+5930,2015,Município,5003900,Figueirão - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,400
+5930,2015,Município,5004007,Glória de Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,300
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,117
+5930,2015,Município,5004304,Iguatemi - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,2900
+5930,2015,Município,5004403,Inocência - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,43500
+5930,2015,Município,5004502,Itaporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,350
+5930,2015,Município,5004601,Itaquiraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,400
+5930,2015,Município,5004700,Ivinhema - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1800
+5930,2015,Município,5004809,Japorã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,75
+5930,2015,Município,5004908,Jaraguari - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,15000
+5930,2015,Município,5005004,Jardim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,180
+5930,2015,Município,5005103,Jateí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,670
+5930,2015,Município,5005152,Juti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,700
+5930,2015,Município,5005251,Laguna Carapã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1058
+5930,2015,Município,5005400,Maracaju - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,730
+5930,2015,Município,5005681,Mundo Novo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,40
+5930,2015,Município,5005707,Naviraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,840
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,3680
+5930,2015,Município,5006200,Nova Andradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,13386
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,875
+5930,2015,Município,5006275,Paraíso das Águas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,6350
+5930,2015,Município,5006309,Paranaíba - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,7048
+5930,2015,Município,5006358,Paranhos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,500
+5930,2015,Município,5006408,Pedro Gomes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,950
+5930,2015,Município,5006606,Ponta Porã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,9000
+5930,2015,Município,5006903,Porto Murtinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1100
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,196000
+5930,2015,Município,5007208,Rio Brilhante - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,300
+5930,2015,Município,5007307,Rio Negro - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,150
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,878
+5930,2015,Município,5007505,Rochedo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,500
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,21480
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,974
+5930,2015,Município,5007703,Sete Quedas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,150
+5930,2015,Município,5007802,Selvíria - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,74350
+5930,2015,Município,5007901,Sidrolândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,900
+5930,2015,Município,5007935,Sonora - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,13980
+5930,2015,Município,5007950,Tacuru - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1500
+5930,2015,Município,5008008,Terenos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,1730
+5930,2015,Município,5008305,Três Lagoas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,217600
+5930,2015,Município,5008404,Vicentina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39326,Eucalipto,100
+5930,2015,Município,5000203,Água Clara - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,400
+5930,2015,Município,5000252,Alcinópolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000609,Amambai - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000708,Anastácio - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000807,Anaurilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000856,Angélica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000906,Antônio João - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001003,Aparecida do Taboado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001102,Aquidauana - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001243,Aral Moreira - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001508,Bandeirantes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001904,Bataguassu - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002001,Batayporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002100,Bela Vista - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002209,Bonito - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002308,Brasilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002407,Caarapó - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002605,Camapuã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002704,Campo Grande - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002803,Caracol - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002902,Cassilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002951,Chapadão do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003108,Corguinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003157,Coronel Sapucaia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003207,Corumbá - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003256,Costa Rica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003306,Coxim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003454,Deodápolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003504,Douradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003702,Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003751,Eldorado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003801,Fátima do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003900,Figueirão - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004007,Glória de Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004304,Iguatemi - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004403,Inocência - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004502,Itaporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004601,Itaquiraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004700,Ivinhema - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004809,Japorã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004908,Jaraguari - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005004,Jardim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005103,Jateí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005152,Juti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005251,Laguna Carapã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005400,Maracaju - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005681,Mundo Novo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005707,Naviraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006200,Nova Andradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006275,Paraíso das Águas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006309,Paranaíba - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006358,Paranhos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006408,Pedro Gomes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006606,Ponta Porã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006903,Porto Murtinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,4800
+5930,2015,Município,5007208,Rio Brilhante - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007307,Rio Negro - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007505,Rochedo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007703,Sete Quedas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007802,Selvíria - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007901,Sidrolândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007935,Sonora - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007950,Tacuru - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5008008,Terenos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5008305,Três Lagoas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,100
+5930,2015,Município,5008404,Vicentina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000203,Água Clara - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000252,Alcinópolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000609,Amambai - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000708,Anastácio - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000807,Anaurilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000856,Angélica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000906,Antônio João - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001003,Aparecida do Taboado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001102,Aquidauana - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001243,Aral Moreira - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001508,Bandeirantes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001904,Bataguassu - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002001,Batayporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002100,Bela Vista - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002209,Bonito - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002308,Brasilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002407,Caarapó - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002605,Camapuã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002704,Campo Grande - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002803,Caracol - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002902,Cassilândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002951,Chapadão do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003108,Corguinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003157,Coronel Sapucaia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003207,Corumbá - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003256,Costa Rica - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003306,Coxim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003454,Deodápolis - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003504,Douradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003702,Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003751,Eldorado - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003801,Fátima do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003900,Figueirão - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004007,Glória de Dourados - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004304,Iguatemi - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004403,Inocência - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004502,Itaporã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004601,Itaquiraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004700,Ivinhema - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004809,Japorã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004908,Jaraguari - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005004,Jardim - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005103,Jateí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005152,Juti - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005251,Laguna Carapã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005400,Maracaju - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005681,Mundo Novo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005707,Naviraí - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006200,Nova Andradina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006275,Paraíso das Águas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006309,Paranaíba - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006358,Paranhos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006408,Pedro Gomes - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006606,Ponta Porã - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006903,Porto Murtinho - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007208,Rio Brilhante - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007307,Rio Negro - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007505,Rochedo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007703,Sete Quedas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007802,Selvíria - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007901,Sidrolândia - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007935,Sonora - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007950,Tacuru - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5008008,Terenos - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5008305,Três Lagoas - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5008404,Vicentina - MS,6549,Área total existente em 31/12 dos efetivos da silvicultura,Hectares,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000203,Água Clara - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5000252,Alcinópolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5000609,Amambai - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5000708,Anastácio - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5000807,Anaurilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5000856,Angélica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5000906,Antônio João - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5001003,Aparecida do Taboado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5001102,Aquidauana - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5001243,Aral Moreira - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5001508,Bandeirantes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5001904,Bataguassu - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002001,Batayporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002100,Bela Vista - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002209,Bonito - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002308,Brasilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002407,Caarapó - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002605,Camapuã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002704,Campo Grande - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002803,Caracol - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002902,Cassilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5002951,Chapadão do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003108,Corguinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003157,Coronel Sapucaia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003207,Corumbá - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003256,Costa Rica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003306,Coxim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003454,Deodápolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003504,Douradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003702,Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003751,Eldorado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003801,Fátima do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5003900,Figueirão - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004007,Glória de Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004304,Iguatemi - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004403,Inocência - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004502,Itaporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004601,Itaquiraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004700,Ivinhema - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004809,Japorã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5004908,Jaraguari - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5005004,Jardim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5005103,Jateí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5005152,Juti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5005251,Laguna Carapã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5005400,Maracaju - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5005681,Mundo Novo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5005707,Naviraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006200,Nova Andradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006275,Paraíso das Águas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006309,Paranaíba - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006358,Paranhos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006408,Pedro Gomes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006606,Ponta Porã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5006903,Porto Murtinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007208,Rio Brilhante - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007307,Rio Negro - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007505,Rochedo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007703,Sete Quedas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007802,Selvíria - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007901,Sidrolândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007935,Sonora - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5007950,Tacuru - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5008008,Terenos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5008305,Três Lagoas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5008404,Vicentina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,0,Total,100.00
+5930,2015,Município,5000203,Água Clara - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,99.67
+5930,2015,Município,5000252,Alcinópolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5000609,Amambai - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5000708,Anastácio - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5000807,Anaurilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5000856,Angélica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5000906,Antônio João - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5001003,Aparecida do Taboado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5001102,Aquidauana - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5001243,Aral Moreira - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5001508,Bandeirantes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5001904,Bataguassu - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002001,Batayporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002100,Bela Vista - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002209,Bonito - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002308,Brasilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002407,Caarapó - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002605,Camapuã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002704,Campo Grande - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002803,Caracol - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002902,Cassilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5002951,Chapadão do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003108,Corguinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003157,Coronel Sapucaia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003207,Corumbá - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003256,Costa Rica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003306,Coxim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003454,Deodápolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003504,Douradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003702,Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003751,Eldorado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003801,Fátima do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5003900,Figueirão - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004007,Glória de Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004304,Iguatemi - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004403,Inocência - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004502,Itaporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004601,Itaquiraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004700,Ivinhema - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004809,Japorã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5004908,Jaraguari - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5005004,Jardim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5005103,Jateí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5005152,Juti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5005251,Laguna Carapã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5005400,Maracaju - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5005681,Mundo Novo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5005707,Naviraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006200,Nova Andradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006275,Paraíso das Águas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006309,Paranaíba - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006358,Paranhos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006408,Pedro Gomes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006606,Ponta Porã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5006903,Porto Murtinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,97.61
+5930,2015,Município,5007208,Rio Brilhante - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007307,Rio Negro - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007505,Rochedo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007703,Sete Quedas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007802,Selvíria - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007901,Sidrolândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007935,Sonora - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5007950,Tacuru - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5008008,Terenos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5008305,Três Lagoas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,99.95
+5930,2015,Município,5008404,Vicentina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39326,Eucalipto,100.00
+5930,2015,Município,5000203,Água Clara - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,0.33
+5930,2015,Município,5000252,Alcinópolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000609,Amambai - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000708,Anastácio - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000807,Anaurilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000856,Angélica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000906,Antônio João - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001003,Aparecida do Taboado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001102,Aquidauana - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001243,Aral Moreira - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001508,Bandeirantes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5001904,Bataguassu - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002001,Batayporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002100,Bela Vista - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002209,Bonito - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002308,Brasilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002407,Caarapó - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002605,Camapuã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002704,Campo Grande - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002803,Caracol - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002902,Cassilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5002951,Chapadão do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003108,Corguinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003157,Coronel Sapucaia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003207,Corumbá - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003256,Costa Rica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003306,Coxim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003454,Deodápolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003504,Douradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003702,Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003751,Eldorado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003801,Fátima do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5003900,Figueirão - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004007,Glória de Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004304,Iguatemi - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004403,Inocência - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004502,Itaporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004601,Itaquiraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004700,Ivinhema - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004809,Japorã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5004908,Jaraguari - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005004,Jardim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005103,Jateí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005152,Juti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005251,Laguna Carapã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005400,Maracaju - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005681,Mundo Novo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5005707,Naviraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006200,Nova Andradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006275,Paraíso das Águas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006309,Paranaíba - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006358,Paranhos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006408,Pedro Gomes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006606,Ponta Porã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5006903,Porto Murtinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,2.39
+5930,2015,Município,5007208,Rio Brilhante - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007307,Rio Negro - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007505,Rochedo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007703,Sete Quedas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007802,Selvíria - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007901,Sidrolândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007935,Sonora - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5007950,Tacuru - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5008008,Terenos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5008305,Três Lagoas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,0.05
+5930,2015,Município,5008404,Vicentina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39327,Pinus,-
+5930,2015,Município,5000203,Água Clara - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000252,Alcinópolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000609,Amambai - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000708,Anastácio - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000807,Anaurilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000856,Angélica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5000906,Antônio João - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001003,Aparecida do Taboado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001102,Aquidauana - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001243,Aral Moreira - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001508,Bandeirantes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5001904,Bataguassu - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002001,Batayporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002100,Bela Vista - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002209,Bonito - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002308,Brasilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002407,Caarapó - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002605,Camapuã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002704,Campo Grande - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002803,Caracol - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002902,Cassilândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5002951,Chapadão do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003108,Corguinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003157,Coronel Sapucaia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003207,Corumbá - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003256,Costa Rica - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003306,Coxim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003454,Deodápolis - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003488,Dois Irmãos do Buriti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003504,Douradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003702,Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003751,Eldorado - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003801,Fátima do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5003900,Figueirão - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004007,Glória de Dourados - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004106,Guia Lopes da Laguna - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004304,Iguatemi - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004403,Inocência - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004502,Itaporã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004601,Itaquiraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004700,Ivinhema - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004809,Japorã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5004908,Jaraguari - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005004,Jardim - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005103,Jateí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005152,Juti - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005251,Laguna Carapã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005400,Maracaju - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005681,Mundo Novo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5005707,Naviraí - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006002,Nova Alvorada do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006200,Nova Andradina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006259,Novo Horizonte do Sul - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006275,Paraíso das Águas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006309,Paranaíba - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006358,Paranhos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006408,Pedro Gomes - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006606,Ponta Porã - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5006903,Porto Murtinho - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007109,Ribas do Rio Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007208,Rio Brilhante - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007307,Rio Negro - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007406,Rio Verde de Mato Grosso - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007505,Rochedo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007554,Santa Rita do Pardo - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007695,São Gabriel do Oeste - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007703,Sete Quedas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007802,Selvíria - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007901,Sidrolândia - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007935,Sonora - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5007950,Tacuru - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5008008,Terenos - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5008305,Três Lagoas - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-
+5930,2015,Município,5008404,Vicentina - MS,1006549,Área total existente em 31/12 dos efetivos da silvicultura - percentual do total geral,Percentual,Espécie florestal,39328,Outras espécies,-

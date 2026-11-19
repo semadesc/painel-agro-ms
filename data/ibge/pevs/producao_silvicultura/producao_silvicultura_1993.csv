@@ -1,0 +1,233 @@
+tabela,periodo,nivel,cod_ibge,localidade,variavel_id,variavel,unidade,classificacao,categoria_id,categoria,valor
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,2670
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,575
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,189875
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,6493
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,118615
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,120890
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,200
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,27000
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,1319149
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,16422
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,10
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3456,1.2 - Lenha,31782
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,466748
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,854
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,376322
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,90426
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,854
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,5625
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),5625
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5000203,Água Clara - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5002308,Brasilândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5005103,Jateí - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5005152,Juti - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007802,Selvíria - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007901,Sidrolândia - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5008305,Três Lagoas - MS,142,Quantidade produzida na silvicultura,,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,48204
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,40
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,5750
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,13500
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,3995834
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,67593
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,5
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,0,Total,1133455
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,24026
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,5750
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,1898750
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,61681
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,1126843
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,24178
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,40
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,13500
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,433340
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,5912
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,5
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3456,1.2 - Lenha,6356
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,1610714
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,256
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,1544550
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,66165
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,256
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,53029
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),53029
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5000203,Água Clara - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5002308,Brasilândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5005103,Jateí - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5005152,Juti - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007802,Selvíria - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007901,Sidrolândia - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5008305,Três Lagoas - MS,143,Valor da produção na silvicultura,Mil Cruzeiros Reais,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,0,Total,100.00
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,49.84
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,100.00
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,47.52
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,91.25
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3455,1.1 - Carvão vegetal,99.42
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,50.16
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,10.84
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,8.75
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,100.00
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3456,1.2 - Lenha,0.56
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,40.31
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3457,1.3 - Madeira em tora,0.02
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,38.65
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3458,1.3.1 - Madeira em tora para papel e celulose,-
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,1.66
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3459,1.3.2 - Madeira em tora para outras finalidades,0.02
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,1.33
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3460,2 - Outros produtos,-
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3461,2.1 - Acácia-negra (casca),-
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),1.33
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3462,2.2 - Eucalipto (folha),-
+291,1993,Município,5000203,Água Clara - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5002308,Brasilândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5005103,Jateí - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5005152,Juti - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007109,Ribas do Rio Pardo - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007802,Selvíria - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5007901,Sidrolândia - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
+291,1993,Município,5008305,Três Lagoas - MS,1000143,Valor da produção na silvicultura - percentual do total geral,Percentual,Tipo de produto da silvicultura,3463,2.3 - Resina,-
