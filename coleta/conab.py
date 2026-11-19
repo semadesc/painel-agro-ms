@@ -58,7 +58,9 @@ def filtrar_uf(texto: str) -> tuple[list[str], list[list[str]], str]:
     leitor = csv.reader(io.StringIO(texto), delimiter=sep)
     cab = [c.strip() for c in next(leitor)]
     col_uf = next((i for i, c in enumerate(cab) if c.lower() in ("uf", "sigla_uf", "estado")), None)
-    linhas = [l for l in leitor if l and (col_uf is None or l[col_uf].strip().upper() == UF)]
+    # remove só os espaços de preenchimento do arquivo original; os valores não mudam
+    linhas = [[c.strip() for c in l] for l in leitor
+              if l and (col_uf is None or l[col_uf].strip().upper() == UF)]
     return cab, linhas, sep
 
 
